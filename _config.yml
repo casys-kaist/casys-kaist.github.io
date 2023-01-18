@@ -1,13 +1,12 @@
-title: AI Conference Deadlines
-description: Countdowns to top CV/NLP/ML/Robotics/AI conference deadlines
-author: Abhishek Das
+title: Architecture & System Conference Deadlines
+description: Countdowns to top Architecture & System conference deadlines
+author: Jinwoo Hwang
 
-domain: "aideadlin.es"
+domain: "casys-kaist.github.io"
 baseurl: ""
 
-twitter_hashtag: machinelearning
-github_username: paperswithcode
-github_repo: ai-deadlines
+github_username: casys-kaist
+github_repo: casys-kaist.github.io
 
 markdown: kramdown
 ga_id:
