@@ -20,85 +20,85 @@
 #   sub: SP
 #   note: Important
 
-# Estimate
-- title: EST. ASPLOS (Spring)
+# TBD
+- title: TBD. ASPLOS (Spring)
   year: 2023
   id: asplos23spring  # title as lower case + last two digits of year
   link: https://asplos-conference.org/
   deadline: '2023-03-31 18:00:00'
   timezone: EDT
-  place: Vancouver, Canada
-  date: March, 25-29, 2023
+  place: TBD
+  date: TBD
   sub: [ ARCH, SYS ]
 
-- title: EST. ASPLOS (Summer)
+- title: TBD. ASPLOS (Summer)
   year: 2023
   id: asplos23summer  # title as lower case + last two digits of year
   link: https://asplos-conference.org/
   deadline: '2023-07-07 18:00:00'
   timezone: EDT
-  place: Vancouver, Canada
-  date: March, 25-29, 2023
+  place: TBD
+  date: TBD
   sub: [ ARCH, SYS ]
 
-- title: EST. ASPLOS (Fall)
+- title: TBD. ASPLOS (Fall)
   year: 2023
   id: asplos23fall  # title as lower case + last two digits of year
   link: https://asplos-conference.org/
   deadline: '2023-10-20 18:00:00'
   timezone: EDT
-  place: Vancouver, Canada
-  date: March, 25-29, 2023
+  place: TBD
+  date: TBD
   sub: [ ARCH, SYS ]
 
-- title: EST. MICRO
+- title: TBD. MICRO
   year: 2023
   id: micro23  # title as lower case + last two digits of year
   link: https://www.microarch.org/micro56/
   deadline: '2023-04-21 23:59:59'
   timezone: PDT
-  place: Chichago, USA
-  date: October, 1-5, 2023
+  place: TBD
+  date: TBD
   sub: ARCH
 
-- title: EST. ISCA
+- title: TBD. ISCA
   year: 2024
   id: isca24  # title as lower case + last two digits of year
   link: http://iscaconf.org/isca2024/
   deadline: '2023-11-21 23:59:59'
   timezone: AoE
-  place: Orlando, USA
-  date: June, 17-21, 2024
+  place: TBD
+  date: TBD
   sub: ARCH
 
-- title: EST. HPCA
+- title: TBD. HPCA
   year: 2024
   id: hpca24  # title as lower case + last two digits of year
   link: https://www.hpca-conf.org/2023
   deadline: '2023-08-01 23:59:59'
   timezone: UTC
-  place: Montreal, Canada
-  date: February 25-March 1, 2024
+  place: TBD
+  date: TBD
   sub: ARCH
 
-- title: EST. EuroSys (Spring)
+- title: TBD. EuroSys (Spring)
   year: 2024
   id: eurosys24spring  # title as lower case + last two digits of year
   link: https://2024.eurosys.org/
   deadline: '2023-05-19 01:59:59'
   timezone: CEST
-  place: Rome, Italy
-  date: May, 8-12, 2024
+  place: TBD
+  date: TBD
   sub: SYS
 
-- title: EST. EuroSys (Fall)
+- title: TBD. EuroSys (Fall)
   year: 2024
   id: eurosys24fall  # title as lower case + last two digits of year
   link: https://2024.eurosys.org/
   deadline: '2023-10-20 01:59:59'
   timezone: CEST
-  place: Rome, Italy
-  date: May, 8-12, 2024
+  place: TBD
+  date: TBD
   sub: SYS
 
 
