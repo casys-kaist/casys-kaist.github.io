@@ -101,6 +101,16 @@
   date: TBD
   sub: SYS
 
+- title: TBD. OSDI
+  year: 2024
+  id: osdi24  # title as lower case + last two digits of year
+  link: https://www.usenix.org/conference/osdi24
+  deadline: '2023-12-13 17:59:59'
+  timezone: EST
+  place: TBD
+  date: TBD
+  sub: SYS
+
 
 # 2023
 - title: ATC
