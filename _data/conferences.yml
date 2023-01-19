@@ -111,6 +111,15 @@
   date: TBD
   sub: [ SYS, TBD ]
 
+- title: '[TBD] DAC'
+  year: 2024
+  id: dac24  # title as lower case + last two digits of year
+  link: https://www.dac.com/
+  deadline: '2023-11-21 17:00:00'
+  timezone: PST
+  place: TBD
+  date: TBD
+  sub: [ ARCH, TBD ]
 
 # 2023
 - title: ATC
@@ -190,7 +199,7 @@
   deadline: '2022-03-31 18:00:00'
   timezone: EDT
   place: Vancouver, Canada
-  date: March, 25-29, 2022
+  date: March, 25-29, 2023
   sub: [ ARCH, SYS ]
 
 - title: ASPLOS (Summer)
@@ -200,7 +209,7 @@
   deadline: '2022-07-07 18:00:00'
   timezone: EDT
   place: Vancouver, Canada
-  date: March, 25-29, 2022
+  date: March, 25-29, 2023
   sub: [ ARCH, SYS ]
 
 - title: ASPLOS (Fall)
@@ -210,9 +219,18 @@
   deadline: '2022-10-20 18:00:00'
   timezone: EDT
   place: Vancouver, Canada
-  date: March, 25-29, 2022
+  date: March, 25-29, 2023
   sub: [ ARCH, SYS ]
 
+- title: DAC
+  year: 2023
+  id: dac23  # title as lower case + last two digits of year
+  link: https://www.dac.com/
+  deadline: '2022-11-21 17:00:00'
+  timezone: PST
+  place: San Fransico, USA
+  date: July, 9-13, 2023
+  sub: ARCH
 
 # 2022
 - title: MICRO
