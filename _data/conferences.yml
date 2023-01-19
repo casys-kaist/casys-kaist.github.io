@@ -61,6 +61,7 @@
   date: October, 1-5, 2023
   sub: ARCH
 
+
 # 2023
 - title: ATC
   year: 2023
@@ -68,6 +69,26 @@
   link: https://www.usenix.org/conference/atc23
   deadline: '2023-01-05 23:59:59'
   timezone: UTC
+  place: Boston, USA
+  date: July, 10-12, 2023
+  sub: SYS
+
+- title: SOSP
+  year: 2023
+  id: sosp23  # title as lower case + last two digits of year
+  link: https://sosp2023.mpi-sws.org/
+  deadline: '2023-04-17 23:59:59'
+  timezone: ET
+  place: Koblenz, Germany
+  date: October, 23-26, 2023
+  sub: SYS
+
+- title: OSDI
+  year: 2023
+  id: osdi23  # title as lower case + last two digits of year
+  link: https://www.usenix.org/conference/osdi23
+  deadline: '2022-12-13 17:59:59'
+  timezone: EST
   place: Boston, USA
   date: July, 10-12, 2023
   sub: SYS
