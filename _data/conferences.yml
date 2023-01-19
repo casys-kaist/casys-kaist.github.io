@@ -61,6 +61,16 @@
   date: October, 1-5, 2023
   sub: ARCH
 
+- title: EST. ISCA
+  year: 2024
+  id: isca24  # title as lower case + last two digits of year
+  link: http://iscaconf.org/isca2024/
+  deadline: '2023-11-21 23:59:59'
+  timezone: AoE
+  place: Orlando, USA
+  date: June, 17-21, 2024
+  sub: ARCH
+
 
 # 2023
 - title: ATC
@@ -92,6 +102,16 @@
   place: Boston, USA
   date: July, 10-12, 2023
   sub: SYS
+
+- title: ISCA
+  year: 2023
+  id: isca23  # title as lower case + last two digits of year
+  link: http://iscaconf.org/isca2023/
+  deadline: '2022-11-21 23:59:59'
+  timezone: AoE
+  place: Orlando, USA
+  date: June, 17-21, 2023
+  sub: ARCH
 
 
 # 2022
