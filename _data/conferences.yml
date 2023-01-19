@@ -29,7 +29,7 @@
   timezone: EDT
   place: TBD
   date: TBD
-  sub: [ ARCH, SYS, TBD ]
+  sub: [ ARCH, SYS ]
 
 - title: '[TBD] ASPLOS (Summer)'
   year: 2024
@@ -39,7 +39,7 @@
   timezone: EDT
   place: TBD
   date: TBD
-  sub: [ ARCH, SYS, TBD ]
+  sub: [ ARCH, SYS ]
 
 - title: '[TBD] ASPLOS (Fall)'
   year: 2024
@@ -49,7 +49,7 @@
   timezone: EDT
   place: TBD
   date: TBD
-  sub: [ ARCH, SYS, TBD ]
+  sub: [ ARCH, SYS ]
 
 - title: '[TBD] MICRO'
   year: 2023
@@ -59,7 +59,7 @@
   timezone: PDT
   place: TBD
   date: TBD
-  sub: [ ARCH, TBD ]
+  sub: ARCH
 
 - title: '[TBD] ISCA'
   year: 2024
@@ -69,7 +69,7 @@
   timezone: AoE
   place: TBD
   date: TBD
-  sub: [ ARCH, TBD ]
+  sub: ARCH
 
 - title: '[TBD] HPCA'
   year: 2024
@@ -79,7 +79,7 @@
   timezone: UTC
   place: TBD
   date: TBD
-  sub: [ ARCH, TBD ]
+  sub: ARCH
 
 - title: '[TBD] EuroSys (Spring)'
   year: 2024
@@ -89,7 +89,7 @@
   timezone: CEST
   place: TBD
   date: TBD
-  sub: [ SYS, TBD ]
+  sub: SYS
 
 - title: '[TBD] EuroSys (Fall)'
   year: 2024
@@ -99,7 +99,7 @@
   timezone: CEST
   place: TBD
   date: TBD
-  sub: [ SYS, TBD ]
+  sub: SYS
 
 - title: '[TBD] OSDI'
   year: 2024
@@ -109,7 +109,7 @@
   timezone: EST
   place: TBD
   date: TBD
-  sub: [ SYS, TBD ]
+  sub: SYS
 
 - title: '[TBD] DAC'
   year: 2024
@@ -119,7 +119,7 @@
   timezone: PST
   place: TBD
   date: TBD
-  sub: [ ARCH, TBD ]
+  sub: ARCH
 
 # 2023
 - title: ATC
