@@ -81,6 +81,27 @@
   date: February 25-March 1, 2024
   sub: ARCH
 
+- title: EuroSys (Spring)
+  year: 2024
+  id: eurosys24spring  # title as lower case + last two digits of year
+  link: https://2024.eurosys.org/
+  deadline: '2023-05-19 01:59:59'
+  timezone: CEST
+  place: Rome, Italy
+  date: May, 8-12, 2024
+  sub: SYS
+
+- title: EuroSys (Fall)
+  year: 2024
+  id: eurosys24fall  # title as lower case + last two digits of year
+  link: https://2024.eurosys.org/
+  deadline: '2024-10-20 01:59:59'
+  timezone: CEST
+  place: Rome, Italy
+  date: May, 8-12, 2024
+  sub: SYS
+
+
 # 2023
 - title: ATC
   year: 2023
@@ -131,6 +152,26 @@
   place: Montreal, Canada
   date: February 25-March 1, 2023
   sub: ARCH
+
+- title: EuroSys (Spring)
+  year: 2023
+  id: eurosys23spring  # title as lower case + last two digits of year
+  link: https://2023.eurosys.org/
+  deadline: '2022-05-19 01:59:59'
+  timezone: CEST
+  place: Rome, Italy
+  date: May, 8-12, 2023
+  sub: SYS
+
+- title: EuroSys (Fall)
+  year: 2023
+  id: eurosys23fall  # title as lower case + last two digits of year
+  link: https://2023.eurosys.org/
+  deadline: '2022-10-20 01:59:59'
+  timezone: CEST
+  place: Rome, Italy
+  date: May, 8-12, 2023
+  sub: SYS
 
 
 # 2022
