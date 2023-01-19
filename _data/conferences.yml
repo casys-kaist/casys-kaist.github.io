@@ -81,7 +81,7 @@
   date: February 25-March 1, 2024
   sub: ARCH
 
-- title: EuroSys (Spring)
+- title: EST. EuroSys (Spring)
   year: 2024
   id: eurosys24spring  # title as lower case + last two digits of year
   link: https://2024.eurosys.org/
@@ -91,11 +91,11 @@
   date: May, 8-12, 2024
   sub: SYS
 
-- title: EuroSys (Fall)
+- title: EST. EuroSys (Fall)
   year: 2024
   id: eurosys24fall  # title as lower case + last two digits of year
   link: https://2024.eurosys.org/
-  deadline: '2024-10-20 01:59:59'
+  deadline: '2023-10-20 01:59:59'
   timezone: CEST
   place: Rome, Italy
   date: May, 8-12, 2024
