@@ -71,6 +71,15 @@
   date: June, 17-21, 2024
   sub: ARCH
 
+- title: EST. HPCA
+  year: 2024
+  id: hpca24  # title as lower case + last two digits of year
+  link: https://www.hpca-conf.org/2023
+  deadline: '2023-08-01 23:59:59'
+  timezone: UTC
+  place: Montreal, Canada
+  date: February 25-March 1, 2024
+  sub: ARCH
 
 # 2023
 - title: ATC
@@ -111,6 +120,16 @@
   timezone: AoE
   place: Orlando, USA
   date: June, 17-21, 2023
+  sub: ARCH
+
+- title: HPCA
+  year: 2023
+  id: hpca23  # title as lower case + last two digits of year
+  link: https://www.hpca-conf.org/2023
+  deadline: '2022-08-01 23:59:59'
+  timezone: UTC
+  place: Montreal, Canada
+  date: February 25-March 1, 2023
   sub: ARCH
 
 
