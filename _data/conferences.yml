@@ -21,37 +21,37 @@
 #   note: Important
 
 # TBD
-- title: TBD. ASPLOS (Spring)
-  year: 2023
-  id: asplos23spring  # title as lower case + last two digits of year
+- title: '[TBD] ASPLOS (Spring)'
+  year: 2024
+  id: asplos24spring  # title as lower case + last two digits of year
   link: https://asplos-conference.org/
   deadline: '2023-03-31 18:00:00'
   timezone: EDT
   place: TBD
   date: TBD
-  sub: [ ARCH, SYS ]
+  sub: [ ARCH, SYS, TBD ]
 
-- title: TBD. ASPLOS (Summer)
-  year: 2023
-  id: asplos23summer  # title as lower case + last two digits of year
+- title: '[TBD] ASPLOS (Summer)'
+  year: 2024
+  id: asplos24summer  # title as lower case + last two digits of year
   link: https://asplos-conference.org/
   deadline: '2023-07-07 18:00:00'
   timezone: EDT
   place: TBD
   date: TBD
-  sub: [ ARCH, SYS ]
+  sub: [ ARCH, SYS, TBD ]
 
-- title: TBD. ASPLOS (Fall)
-  year: 2023
-  id: asplos23fall  # title as lower case + last two digits of year
+- title: '[TBD] ASPLOS (Fall)'
+  year: 2024
+  id: asplos24fall  # title as lower case + last two digits of year
   link: https://asplos-conference.org/
   deadline: '2023-10-20 18:00:00'
   timezone: EDT
   place: TBD
   date: TBD
-  sub: [ ARCH, SYS ]
+  sub: [ ARCH, SYS, TBD ]
 
-- title: TBD. MICRO
+- title: '[TBD] MICRO'
   year: 2023
   id: micro23  # title as lower case + last two digits of year
   link: https://www.microarch.org/micro56/
@@ -59,9 +59,9 @@
   timezone: PDT
   place: TBD
   date: TBD
-  sub: ARCH
+  sub: [ ARCH, TBD ]
 
-- title: TBD. ISCA
+- title: '[TBD] ISCA'
   year: 2024
   id: isca24  # title as lower case + last two digits of year
   link: http://iscaconf.org/isca2024/
@@ -69,9 +69,9 @@
   timezone: AoE
   place: TBD
   date: TBD
-  sub: ARCH
+  sub: [ ARCH, TBD ]
 
-- title: TBD. HPCA
+- title: '[TBD] HPCA'
   year: 2024
   id: hpca24  # title as lower case + last two digits of year
   link: https://www.hpca-conf.org/2023
@@ -79,9 +79,9 @@
   timezone: UTC
   place: TBD
   date: TBD
-  sub: ARCH
+  sub: [ ARCH, TBD ]
 
-- title: TBD. EuroSys (Spring)
+- title: '[TBD] EuroSys (Spring)'
   year: 2024
   id: eurosys24spring  # title as lower case + last two digits of year
   link: https://2024.eurosys.org/
@@ -89,9 +89,9 @@
   timezone: CEST
   place: TBD
   date: TBD
-  sub: SYS
+  sub: [ SYS, TBD ]
 
-- title: TBD. EuroSys (Fall)
+- title: '[TBD] EuroSys (Fall)'
   year: 2024
   id: eurosys24fall  # title as lower case + last two digits of year
   link: https://2024.eurosys.org/
@@ -99,9 +99,9 @@
   timezone: CEST
   place: TBD
   date: TBD
-  sub: SYS
+  sub: [ SYS, TBD ]
 
-- title: TBD. OSDI
+- title: '[TBD] OSDI'
   year: 2024
   id: osdi24  # title as lower case + last two digits of year
   link: https://www.usenix.org/conference/osdi24
@@ -109,7 +109,7 @@
   timezone: EST
   place: TBD
   date: TBD
-  sub: SYS
+  sub: [ SYS, TBD ]
 
 
 # 2023
@@ -183,11 +183,9 @@
   date: May, 8-12, 2023
   sub: SYS
 
-
-# 2022
 - title: ASPLOS (Spring)
-  year: 2022
-  id: asplos22spring  # title as lower case + last two digits of year
+  year: 2023
+  id: asplos23spring  # title as lower case + last two digits of year
   link: https://asplos-conference.org/
   deadline: '2022-03-31 18:00:00'
   timezone: EDT
@@ -196,8 +194,8 @@
   sub: [ ARCH, SYS ]
 
 - title: ASPLOS (Summer)
-  year: 2022
-  id: asplos22summer  # title as lower case + last two digits of year
+  year: 2023
+  id: asplos23summer  # title as lower case + last two digits of year
   link: https://asplos-conference.org/
   deadline: '2022-07-07 18:00:00'
   timezone: EDT
@@ -206,8 +204,8 @@
   sub: [ ARCH, SYS ]
 
 - title: ASPLOS (Fall)
-  year: 2022
-  id: asplos22fall  # title as lower case + last two digits of year
+  year: 2023
+  id: asplos23fall  # title as lower case + last two digits of year
   link: https://asplos-conference.org/
   deadline: '2022-10-20 18:00:00'
   timezone: EDT
@@ -216,6 +214,7 @@
   sub: [ ARCH, SYS ]
 
 
+# 2022
 - title: MICRO
   year: 2022
   id: micro22  # title as lower case + last two digits of year
