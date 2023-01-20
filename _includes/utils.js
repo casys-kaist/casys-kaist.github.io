@@ -21,10 +21,17 @@ function update_filtering(data) {
   $(".confItem").hide();
   for (const j in data.all_subs) {
     const s = data.all_subs[j];
+    if (s == 'TBD') {
+        continue;
+    }
     const identifier = "." + s + "-conf";
     if (data.subs.includes(s)) {
-      $(identifier).show();
+        $(identifier).show();
     }
+  }
+
+  if (!data.subs.includes('TBD')) {
+        $('.TBD-conf').hide();
   }
 
   if (subs.length == 0) {

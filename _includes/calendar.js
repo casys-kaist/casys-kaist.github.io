@@ -41,7 +41,7 @@
               content +=
                 '<div class="event-tooltip-content">' +
                 '<div class="event-name ' + headline_color + '">' +
-                '<b>' + e.events[i].name + '</b>' + 
+                '<b>' + e.events[i].name + '</b>' +
                 '</div>' +
                 '<div class="event-location">' +
                 location_html +
@@ -131,11 +131,19 @@ function update_filtering(data) {
 
   conf_list = conf_list_all.filter(v => {
     var commonValues = data.subs.filter(function (value) {
+      if (value == 'TBD') return false;
       return v.subject.indexOf(value) > -1;
     });
     var subject_match = commonValues.length > 0;
     return subject_match;
   });
+
+  if (!data.subs.includes('TBD')) {
+      conf_list = conf_list.filter(v => {
+          return v.subject.indexOf('TBD') <= -1;
+      });
+      console.log(conf_list)
+  }
 
   // rerender calendar
   calendar_data['dataSource'] = conf_list;  // need to update only this
