@@ -121,6 +121,57 @@
   date: TBD
   sub: ARCH
 
+- title: '[TBD] MLSys'
+  year: 2024
+  id: mlsys24  # title as lower case + last two digits of year
+  link: https://mlsys.org/
+  deadline: '2023-10-28 16:00:00'
+  timezone: ET
+  place: TBD
+  date: TBD
+  sub: SYS
+
+- title: '[TBD] DATE'
+  year: 2024
+  id: date24  # title as lower case + last two digits of year
+  link: https://www.date-conference.com/
+  deadline: '2023-09-25 23:59:59'
+  timezone: AoE
+  place: TBD
+  date: TBD
+  sub: ARCH
+
+- title: '[TBD] IISWC'
+  year: 2023
+  id: iiswc23  # title as lower case + last two digits of year
+  link: http://www.iiswc.org/iiswc2023/index.html
+  deadline: '2023-07-15 17:00:00'
+  timezone: EDT
+  place: TBD
+  date: TBD
+  sub: OTHER
+
+- title: '[TBD] PACT'
+  year: 2023
+  id: pact23  # title as lower case + last two digits of year
+  link: https://pact23.cs.illinois.edu/
+  deadline: '2023-04-25 07:59:59'
+  timezone: EDT
+  place: TBD
+  date: TBD
+  sub: ARCH
+
+- title: '[TBD] ICCD'
+  year: 2023
+  id: iccd23  # title as lower case + last two digits of year
+  link: https://www.iccd-conf.com/Home.html
+  deadline: '2023-06-18 23:59:59'
+  timezone: AoE
+  place: TBD
+  date: TBD
+  sub: ARCH
+
+
 # 2023
 - title: ATC
   year: 2023
@@ -232,6 +283,47 @@
   date: July, 9-13, 2023
   sub: ARCH
 
+- title: MLSys
+  year: 2023
+  id: mlsys23  # title as lower case + last two digits of year
+  link: https://mlsys.org/
+  deadline: '2022-10-28 16:00:00'
+  timezone: ET
+  place: Miami, USA
+  date: June, 4-8, 2023
+  sub: SYS
+
+- title: DATE
+  year: 2023
+  id: date23  # title as lower case + last two digits of year
+  link: https://www.date-conference.com/
+  deadline: '2022-09-25 23:59:59'
+  timezone: AoE
+  place: Antwerpen, Belgium
+  date: April, 17-19, 2023
+  sub: ARCH
+
+- title: ICS
+  year: 2023
+  id: ics23  # title as lower case + last two digits of year
+  link: https://nschiele.github.io/ICS2023/
+  deadline: '2023-02-03 23:59:59'
+  timezone: AoE
+  place: Orlando, USA
+  date: June, 21-23, 2023
+  sub: [ SYS, ARCH ]
+
+- title: SC
+  year: 2023
+  id: sc23  # title as lower case + last two digits of year
+  link: https://sc23.supercomputing.org/
+  deadline: '2023-04-06 23:59:59'
+  timezone: UTC-12
+  place: Denver, USA
+  date: November, 12-17, 2023
+  sub: [ SYS, ARCH ]
+
+
 # 2022
 - title: MICRO
   year: 2022
@@ -243,4 +335,33 @@
   date: October, 1-5, 2022
   sub: ARCH
 
+- title: IISWC
+  year: 2022
+  id: iiswc22  # title as lower case + last two digits of year
+  link: http://www.iiswc.org/iiswc2022/index.html
+  deadline: '2022-07-15 17:00:00'
+  timezone: EDT
+  place: Austin, USA
+  date: November, 6-8, 2022
+  sub: OTHER
+
+- title: PACT
+  year: 2022
+  id: pact22  # title as lower case + last two digits of year
+  link: https://pact22.cs.illinois.edu/
+  deadline: '2022-04-25 07:59:59'
+  timezone: EDT
+  place: Chicago, USA
+  date: October, 10-12, 2022
+  sub: ARCH
+
+- title: ICCD
+  year: 2022
+  id: iccd22  # title as lower case + last two digits of year
+  link: https://www.iccd-conf.com/Home.html
+  deadline: '2022-06-18 23:59:59'
+  timezone: AoE
+  place: Lake Tahoe, USA
+  date: October, 23-26, 2023
+  sub: ARCH
 

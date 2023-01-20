@@ -5,6 +5,7 @@
 - name: System
   sub: SYS
   color: "#deff0a"
-# - name: To be determined
-#   sub: TBD
-#   color: "#0aefff"
+- name: Other
+  sub: OTHER
+  color: "#0aefff"
+
