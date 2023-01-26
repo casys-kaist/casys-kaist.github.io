@@ -26,7 +26,7 @@
   id: asplos24spring  # title as lower case + last two digits of year
   link: https://asplos-conference.org/
   deadline: '2023-03-31 18:00:00'
-  timezone: EDT
+  timezone: UTC-4
   place: TBD
   date: TBD
   sub: [ TBD, ARCH, SYS ]
@@ -36,7 +36,7 @@
   id: asplos24summer  # title as lower case + last two digits of year
   link: https://asplos-conference.org/
   deadline: '2023-07-07 18:00:00'
-  timezone: EDT
+  timezone: UTC-4
   place: TBD
   date: TBD
   sub: [ TBD, ARCH, SYS ]
@@ -46,7 +46,7 @@
   id: asplos24fall  # title as lower case + last two digits of year
   link: https://asplos-conference.org/
   deadline: '2023-10-20 18:00:00'
-  timezone: EDT
+  timezone: UTC-4
   place: TBD
   date: TBD
   sub: [ TBD, ARCH, SYS ]
@@ -56,7 +56,7 @@
   id: micro23  # title as lower case + last two digits of year
   link: https://www.microarch.org/micro56/
   deadline: '2023-04-21 23:59:59'
-  timezone: PDT
+  timezone: UTC-7
   place: TBD
   date: TBD
   sub: [ TBD, ARCH ]
@@ -66,7 +66,7 @@
   id: isca24  # title as lower case + last two digits of year
   link: http://iscaconf.org/isca2024/
   deadline: '2023-11-21 23:59:59'
-  timezone: AoE
+  timezone: UTC-12
   place: TBD
   date: TBD
   sub: [ TBD, ARCH ]
@@ -86,7 +86,7 @@
   id: eurosys24spring  # title as lower case + last two digits of year
   link: https://2024.eurosys.org/
   deadline: '2023-05-19 01:59:59'
-  timezone: CEST
+  timezone: UTC+2
   place: TBD
   date: TBD
   sub: [ TBD, SYS ]
@@ -96,7 +96,7 @@
   id: eurosys24fall  # title as lower case + last two digits of year
   link: https://2024.eurosys.org/
   deadline: '2023-10-20 01:59:59'
-  timezone: CEST
+  timezone: UTC+2
   place: TBD
   date: TBD
   sub: [ TBD, SYS ]
@@ -116,7 +116,7 @@
   id: dac24  # title as lower case + last two digits of year
   link: https://www.dac.com/
   deadline: '2023-11-21 17:00:00'
-  timezone: PST
+  timezone: UTC-8
   place: TBD
   date: TBD
   sub: [ TBD, ARCH ]
@@ -126,7 +126,7 @@
   id: mlsys24  # title as lower case + last two digits of year
   link: https://mlsys.org/
   deadline: '2023-10-28 16:00:00'
-  timezone: ET
+  timezone: UTC-4
   place: TBD
   date: TBD
   sub: [ TBD, SYS ]
@@ -136,7 +136,7 @@
   id: date24  # title as lower case + last two digits of year
   link: https://www.date-conference.com/
   deadline: '2023-09-25 23:59:59'
-  timezone: AoE
+  timezone: UTC-12
   place: TBD
   date: TBD
   sub: [ TBD, ARCH ]
@@ -146,7 +146,7 @@
   id: iiswc23  # title as lower case + last two digits of year
   link: http://www.iiswc.org/iiswc2023/index.html
   deadline: '2023-07-15 17:00:00'
-  timezone: EDT
+  timezone: UTC-4
   place: TBD
   date: TBD
   sub: [ TBD, OTHER ]
@@ -156,7 +156,7 @@
   id: pact23  # title as lower case + last two digits of year
   link: https://pact23.cs.illinois.edu/
   deadline: '2023-04-25 07:59:59'
-  timezone: EDT
+  timezone: UTC-4
   place: TBD
   date: TBD
   sub: [ TBD, ARCH ]
@@ -166,7 +166,7 @@
   id: iccd23  # title as lower case + last two digits of year
   link: https://www.iccd-conf.com/Home.html
   deadline: '2023-06-18 23:59:59'
-  timezone: AoE
+  timezone: UTC-12
   place: TBD
   date: TBD
   sub: [ TBD, ARCH ]
@@ -188,7 +188,7 @@
   id: sosp23  # title as lower case + last two digits of year
   link: https://sosp2023.mpi-sws.org/
   deadline: '2023-04-17 23:59:59'
-  timezone: ET
+  timezone: UTC-4
   place: Koblenz, Germany
   date: October, 23-26, 2023
   sub: SYS
@@ -208,7 +208,7 @@
   id: isca23  # title as lower case + last two digits of year
   link: http://iscaconf.org/isca2023/
   deadline: '2022-11-21 23:59:59'
-  timezone: AoE
+  timezone: UTC-12
   place: Orlando, USA
   date: June, 17-21, 2023
   sub: ARCH
@@ -228,7 +228,7 @@
   id: eurosys23spring  # title as lower case + last two digits of year
   link: https://2023.eurosys.org/
   deadline: '2022-05-19 01:59:59'
-  timezone: CEST
+  timezone: UTC+2
   place: Rome, Italy
   date: May, 8-12, 2023
   sub: SYS
@@ -238,7 +238,7 @@
   id: eurosys23fall  # title as lower case + last two digits of year
   link: https://2023.eurosys.org/
   deadline: '2022-10-20 01:59:59'
-  timezone: CEST
+  timezone: UTC+2
   place: Rome, Italy
   date: May, 8-12, 2023
   sub: SYS
@@ -248,7 +248,7 @@
   id: asplos23spring  # title as lower case + last two digits of year
   link: https://asplos-conference.org/
   deadline: '2022-03-31 18:00:00'
-  timezone: EDT
+  timezone: UTC-4
   place: Vancouver, Canada
   date: March, 25-29, 2023
   sub: [ ARCH, SYS ]
@@ -258,7 +258,7 @@
   id: asplos23summer  # title as lower case + last two digits of year
   link: https://asplos-conference.org/
   deadline: '2022-07-07 18:00:00'
-  timezone: EDT
+  timezone: UTC-4
   place: Vancouver, Canada
   date: March, 25-29, 2023
   sub: [ ARCH, SYS ]
@@ -268,7 +268,7 @@
   id: asplos23fall  # title as lower case + last two digits of year
   link: https://asplos-conference.org/
   deadline: '2022-10-20 18:00:00'
-  timezone: EDT
+  timezone: UTC-4
   place: Vancouver, Canada
   date: March, 25-29, 2023
   sub: [ ARCH, SYS ]
@@ -278,7 +278,7 @@
   id: dac23  # title as lower case + last two digits of year
   link: https://www.dac.com/
   deadline: '2022-11-21 17:00:00'
-  timezone: PST
+  timezone: UTC-8
   place: San Fransico, USA
   date: July, 9-13, 2023
   sub: ARCH
@@ -288,7 +288,7 @@
   id: mlsys23  # title as lower case + last two digits of year
   link: https://mlsys.org/
   deadline: '2022-10-28 16:00:00'
-  timezone: ET
+  timezone: UTC-4
   place: Miami, USA
   date: June, 4-8, 2023
   sub: SYS
@@ -298,7 +298,7 @@
   id: date23  # title as lower case + last two digits of year
   link: https://www.date-conference.com/
   deadline: '2022-09-25 23:59:59'
-  timezone: AoE
+  timezone: UTC-12
   place: Antwerpen, Belgium
   date: April, 17-19, 2023
   sub: ARCH
@@ -308,7 +308,7 @@
   id: ics23  # title as lower case + last two digits of year
   link: https://nschiele.github.io/ICS2023/
   deadline: '2023-02-03 23:59:59'
-  timezone: AoE
+  timezone: UTC-12
   place: Orlando, USA
   date: June, 21-23, 2023
   sub: [ SYS, ARCH ]
@@ -330,7 +330,7 @@
   id: micro22  # title as lower case + last two digits of year
   link: https://www.microarch.org/micro55/
   deadline: '2022-04-21 23:59:59'
-  timezone: PDT
+  timezone: UTC-7
   place: Chichago, USA
   date: October, 1-5, 2022
   sub: ARCH
@@ -340,7 +340,7 @@
   id: iiswc22  # title as lower case + last two digits of year
   link: http://www.iiswc.org/iiswc2022/index.html
   deadline: '2022-07-15 17:00:00'
-  timezone: EDT
+  timezone: UTC-4
   place: Austin, USA
   date: November, 6-8, 2022
   sub: OTHER
@@ -350,7 +350,7 @@
   id: pact22  # title as lower case + last two digits of year
   link: https://pact22.cs.illinois.edu/
   deadline: '2022-04-25 07:59:59'
-  timezone: EDT
+  timezone: UTC-4
   place: Chicago, USA
   date: October, 10-12, 2022
   sub: ARCH
@@ -360,7 +360,7 @@
   id: iccd22  # title as lower case + last two digits of year
   link: https://www.iccd-conf.com/Home.html
   deadline: '2022-06-18 23:59:59'
-  timezone: AoE
+  timezone: UTC-12
   place: Lake Tahoe, USA
   date: October, 23-26, 2023
   sub: ARCH
