@@ -154,12 +154,12 @@
 - title: PACT
   year: 2023
   id: pact23  # title as lower case + last two digits of year
-  link: https://pact23.cs.illinois.edu/
-  deadline: '2023-04-25 07:59:59'
-  timezone: UTC-4
-  place: TBD
-  date: TBD
-  sub: [ TBD, ARCH ]
+  link: https://pact2023.github.io/
+  deadline: '2023-04-01 23:59:59'
+  timezone: UTC-12
+  place: Vienna, Austria
+  date: October, 21-25, 2023
+  sub: [ ARCH ]
 
 - title: ICCD
   year: 2023
