@@ -21,26 +21,6 @@
 #   note: Important
 
 # TBD
-- title: ASPLOS
-  year: 2024
-  id: asplos24 
-  link: https://asplos-conference.org/
-  deadline: '2023-04-20 18:00:00'
-  timezone: UTC-4
-  place: TBD
-  date: TBD
-  sub: [ ARCH, SYS ]
-
-- title: MICRO
-  year: 2023
-  id: micro23  # title as lower case + last two digits of year
-  link: https://www.microarch.org/micro56/
-  deadline: '2023-04-28 23:59:59'
-  timezone: UTC-7
-  place: Toronto, Canada
-  date: TBD
-  sub: [ ARCH ]
-
 - title: ISCA
   year: 2024
   id: isca24  # title as lower case + last two digits of year
@@ -50,16 +30,6 @@
   place: TBD
   date: TBD
   sub: [ TBD, ARCH ]
-
-- title: HPCA
-  year: 2024
-  id: hpca24  # title as lower case + last two digits of year
-  link: https://www.hpca-conf.org/2023
-  deadline: '2023-08-04 23:59:59'
-  timezone: UTC
-  place: TBD
-  date: TBD
-  sub: [ ARCH ]
 
 - title: EuroSys (Spring)
   year: 2024
@@ -151,8 +121,38 @@
   date: TBD
   sub: [ TBD, ARCH ]
 
+# 2024
+- title: ASPLOS
+  year: 2024
+  id: asplos24 
+  link: https://asplos-conference.org/
+  deadline: '2023-04-20 18:00:00'
+  timezone: UTC-4
+  place: TBD
+  date: TBD
+  sub: [ ARCH, SYS ]
+
+- title: HPCA
+  year: 2024
+  id: hpca24  # title as lower case + last two digits of year
+  link: https://www.hpca-conf.org/2023
+  deadline: '2023-08-04 23:59:59'
+  timezone: UTC
+  place: TBD
+  date: TBD
+  sub: [ ARCH ]
 
 # 2023
+- title: MICRO
+  year: 2023
+  id: micro23  # title as lower case + last two digits of year
+  link: https://www.microarch.org/micro56/
+  deadline: '2023-04-28 23:59:59'
+  timezone: UTC-7
+  place: Toronto, Canada
+  date: TBD
+  sub: [ ARCH ]
+
 - title: ATC
   year: 2023
   id: atc23  # title as lower case + last two digits of year
