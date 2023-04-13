@@ -122,14 +122,14 @@
   sub: [ TBD, ARCH ]
 
 # 2024
-- title: ASPLOS
+- title: ASPLOS (Spring)
   year: 2024
-  id: asplos24 
+  id: asplos24spring
   link: https://asplos-conference.org/
-  deadline: '2023-04-20 18:00:00'
+  deadline: '2023-04-20 15:00:00'
   timezone: UTC-4
-  place: TBD
-  date: TBD
+  place: California, USA
+  date: April, 2024
   sub: [ ARCH, SYS ]
 
 - title: HPCA
