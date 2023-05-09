@@ -135,12 +135,12 @@
 - title: HPCA
   year: 2024
   id: hpca24  # title as lower case + last two digits of year
-  link: https://www.hpca-conf.org/2023
+  link: https://hpca-conf.org/2024/
   deadline: '2023-08-04 23:59:59'
   timezone: UTC
-  place: TBD
-  date: TBD
-  sub: [ ARCH ]
+  place: Edinburgh, United Kingdom
+  date: March, 2-6, 2024
+  sub: [ TBD, ARCH ]
 
 - title: ASPLOS (Summer)
   year: 2024
