@@ -34,22 +34,22 @@
 - title: EuroSys (Spring)
   year: 2024
   id: eurosys24spring  # title as lower case + last two digits of year
-  link: https://2024.eurosys.org/
-  deadline: '2023-05-19 01:59:59'
-  timezone: UTC+2
-  place: TBD
-  date: TBD
-  sub: [ TBD, SYS ]
+  link: https://www.eurosys.org/news/eurosys-2024
+  deadline: '2023-05-18 23:59:59'
+  timezone: UTC+0
+  place: Athens, Greece
+  date: April, 23-26, 2024
+  sub: [ SYS ]
 
 - title: EuroSys (Fall)
   year: 2024
   id: eurosys24fall  # title as lower case + last two digits of year
-  link: https://2024.eurosys.org/
-  deadline: '2023-10-20 01:59:59'
-  timezone: UTC+2
-  place: TBD
-  date: TBD
-  sub: [ TBD, SYS ]
+  link: https://www.eurosys.org/news/eurosys-2024
+  deadline: '2023-10-19 23:59:59'
+  timezone: UTC+0
+  place: Athens, Greece
+  date: April, 23-26, 2024
+  sub: [ SYS ]
 
 - title: OSDI
   year: 2024
