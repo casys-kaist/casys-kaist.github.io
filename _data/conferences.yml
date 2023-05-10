@@ -95,11 +95,11 @@
   year: 2023
   id: iiswc23  # title as lower case + last two digits of year
   link: http://www.iiswc.org/iiswc2023/index.html
-  deadline: '2023-07-15 17:00:00'
+  deadline: '2023-06-14 17:00:00'
   timezone: UTC-4
-  place: TBD
-  date: TBD
-  sub: [ TBD, OTHER ]
+  place: Ghent, Belgium
+  date: October, 1-3, 2023
+  sub: [ OTHER ]
 
 - title: PACT
   year: 2023
@@ -115,11 +115,11 @@
   year: 2023
   id: iccd23  # title as lower case + last two digits of year
   link: https://www.iccd-conf.com/Home.html
-  deadline: '2023-06-18 23:59:59'
+  deadline: '2023-06-16 23:59:59'
   timezone: UTC-12
-  place: TBD
-  date: TBD
-  sub: [ TBD, ARCH ]
+  place: Washington DC, USA
+  date: November, 6-8, 2023
+  sub: [ ARCH ]
 
 # 2024
 - title: ASPLOS (Spring)
