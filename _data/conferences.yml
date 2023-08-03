@@ -136,7 +136,7 @@
   year: 2024
   id: hpca24  # title as lower case + last two digits of year
   link: https://hpca-conf.org/2024/
-  deadline: '2023-08-04 23:59:59'
+  deadline: '2023-08-05 06:59:59'
   timezone: UTC
   place: Edinburgh, United Kingdom
   date: March, 2-6, 2024
