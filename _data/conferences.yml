@@ -77,8 +77,8 @@
   link: https://mlsys.org/
   deadline: '2023-10-28 16:00:00'
   timezone: UTC-4
-  place: TBD
-  date: TBD
+  place: Santa Clara, CA, USA
+  date: May, 13-16, 2024
   sub: [ TBD, SYS ]
 
 - title: DATE
@@ -87,9 +87,10 @@
   link: https://www.date-conference.com/
   deadline: '2023-09-25 23:59:59'
   timezone: UTC-12
-  place: TBD
-  date: TBD
+  place: Valencia, Spain
+  date: March, 25-27, 2024
   sub: [ TBD, ARCH ]
+
 
 - title: IISWC
   year: 2023
