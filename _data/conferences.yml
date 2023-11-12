@@ -20,16 +20,25 @@
 #   sub: SP
 #   note: Important
 
-# TBD
+- title: ATC
+  year: 2024
+  id: atc24
+  link: https://www.usenix.org/conference/atc24
+  deadline: '2023-01-16 23:59:59'
+  timezone: UTC
+  place: Santa Clara, CA, USA
+  date: July 10-12, 2024
+  sub: [ SYS ]
+
 - title: ISCA
   year: 2024
   id: isca24  # title as lower case + last two digits of year
   link: http://iscaconf.org/isca2024/
   deadline: '2023-11-21 23:59:59'
   timezone: UTC-12
-  place: TBD
-  date: TBD
-  sub: [ TBD, ARCH ]
+  place: Buenos Aires, Argentina
+  date: June 29-July 3, 2024
+  sub: [ ARCH ]
 
 - title: EuroSys (Spring)
   year: 2024
