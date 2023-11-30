@@ -8,6 +8,7 @@ bundle exec jekyll serve
 ```
 
 If you want to add conference, edit **./_data/conferences.yml**.
+
 If you want to add type for conference, edit **./_data/types.yml**.
 
 ## AI Deadlines [![Build Status](https://travis-ci.com/abhshkdz/ai-deadlines.svg?branch=gh-pages)](https://travis-ci.com/abhshkdz/ai-deadlines)
