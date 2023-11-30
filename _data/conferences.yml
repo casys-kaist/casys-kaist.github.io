@@ -140,16 +140,6 @@
   date: TBD
   sub: [ TBD, SYS ]
 
-- title: DAC
-  year: 2024
-  id: dac24  # title as lower case + last two digits of year
-  link: https://www.dac.com/
-  deadline: '2023-11-21 17:00:00'
-  timezone: UTC-8
-  place: TBD
-  date: TBD
-  sub: [ TBD, ARCH ]
-
 - title: MLSys
   year: 2024
   id: mlsys24  # title as lower case + last two digits of year
