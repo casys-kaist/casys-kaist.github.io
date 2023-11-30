@@ -1,3 +1,15 @@
+## Settings for local test
+
+```
+git clone https://github.com/casys-kaist/casys-kaist.github.io.git
+cd casys-kaist.github.io
+bundle add jekyll
+bundle exec jekyll serve
+```
+
+If you want to add conference, edit **./_data/conferences.yml**.
+If you want to add type for conference, edit **./_data/types.yml**.
+
 ## AI Deadlines [![Build Status](https://travis-ci.com/abhshkdz/ai-deadlines.svg?branch=gh-pages)](https://travis-ci.com/abhshkdz/ai-deadlines)
 
 Countdown timers to keep track of a bunch of CV/NLP/ML/RO conference deadlines.

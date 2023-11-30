@@ -20,6 +20,66 @@
 #   sub: SP
 #   note: Important
 
+- title: SIGMOD
+  year: 2024
+  id: sigmod24
+  link: https://2024.sigmod.org/
+  deadline: '2023-10-15 23:59:59'
+  timezone: PST
+  place: Santiago, Chile
+  date: June 9-15, 2024
+  sub: [ OTHER ]
+
+- title: VLDB (every month)
+  year: 2024
+  id: vldb24
+  link: https://vldb.org/2024/
+  deadline: '2024-01-01 16:59:59'
+  timezone: PST
+  place: Guangzhou, China (Hybrid)
+  date: August 25-29, 2024
+  sub: [ OTHER ]
+
+- title: ECCV
+  year: 2024
+  id: eccv24
+  link: https://eccv2024.ecva.net/
+  deadline: '2024-03-07 12:59:59'
+  timezone: PST
+  place: Milano, Italy
+  date: September 29-October 04, 2024
+  sub: [ ML ]
+
+- title: CVPR
+  year: 2024
+  id: cvpr24
+  link: https://cvpr.thecvf.com/
+  deadline: '2023-11-18 07:59:59'
+  timezone: UTC
+  place: Seattle WA, USA
+  date: June 19-21, 2024
+  sub: [ ML ]
+
+- title: ICLR
+  year: 2024
+  id: iclr24
+  link: https://iclr.cc/
+  deadline: '2024-02-28 23:59:59'
+  timezone: AoE
+  place: Vienna, Austria
+  date: May 7-11, 2024
+  sub: [ ML ]
+
+- title: ICML
+  year: 2024
+  id: icml24
+  link: https://icml.cc/
+  deadline: '2024-02-01 23:59:59'
+  timezone: AoE
+  place: Vienna, Austria
+  date: July 21-27, 2024
+  sub: [ ML ]
+
 - title: ATC
   year: 2024
   id: atc24
