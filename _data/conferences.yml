@@ -20,6 +20,16 @@
 #   sub: SP
 #   note: Important
 
+- title: DAC
+  year: 2024
+  id: dac24
+  link: https://www.dac.com/Conference/2024-Call-for-Contributions
+  deadline: '2023-11-20 16:59:59'
+  timezone: PST
+  place: San Francisco, CA
+  date: June 23-27, 2024
+  sub: [ ARCH ]
+
 - title: SIGMOD
   year: 2024
   id: sigmod24
