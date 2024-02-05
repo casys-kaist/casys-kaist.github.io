@@ -19,6 +19,36 @@
 #   hindex: 100.0
 #   sub: SP
 #   note: Important
+# 2025
+- title: ASPLOS (Spring)
+  year: 2025
+  id: asplos25spring
+  link: https://www.asplos-conference.org/asplos-2025-call-for-papers/
+  deadline: '2023-03-01 15:00:00'
+  timezone: UTC-4
+  place: Rotterdam, Netherladns
+  date: March-April, 2024
+  sub: [ ARCH, SYS ]
+
+- title: ASPLOS (Summer)
+  year: 2025
+  id: asplos25summer
+  link: https://asplos-conference.org/asplos-2025-call-for-papers/
+  deadline: '2023-06-24 15:00:00'
+  timezone: UTC-4
+  place: Rotterdam, Netherladns
+  date: March-April, 2024
+  sub: [ ARCH, SYS ]
+
+- title: ASPLOS (Fall)
+  year: 2025
+  id: asplos25fall
+  link: https://asplos-conference.org/asplos-2025-call-for-papers/
+  deadline: '2023-10-11 15:00:00'
+  timezone: UTC-4
+  place: Rotterdam, Netherladns
+  date: March-April, 2024
+  sub: [ ARCH, SYS ]
 
 - title: DAC
   year: 2024
