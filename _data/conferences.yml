@@ -20,6 +20,27 @@
 #   sub: SP
 #   note: Important
 # 2025
+#
+- title: EuroSys (Spring)
+  year: 2025
+  id: eurosys25spring  # title as lower case + last two digits of year
+  link: https://www.eurosys.org/news/eurosys-2025
+  deadline: '2024-05-21 23:59:59'
+  timezone: UTC-12
+  place: Rotterdam, Netherlands
+  date: TBA, 2025
+  sub: [ SYS ]
+
+- title: EuroSys (Fall)
+  year: 2025
+  id: eurosys25fall  # title as lower case + last two digits of year
+  link: https://www.eurosys.org/news/eurosys-2025
+  deadline: '2023-10-22 23:59:59'
+  timezone: UTC-12
+  place: Rotterdam, Netherlands
+  date: TBA, 2025
+  sub: [ SYS ]
+
 - title: ASPLOS (Spring)
   year: 2025
   id: asplos25spring
@@ -48,6 +69,16 @@
   timezone: UTC-4
   place: Rotterdam, Netherladns
   date: March-April, 2024
+  sub: [ ARCH, SYS ]
+    
+- title: ISMM
+  year: 2024
+  id: ismm24
+  link: https://conf.researchr.org/home/ismm-2024
+  deadline: '2024-03-22 12:00:00'
+  timezone: UTC-12
+  place: Copenhagen, Denmark
+  date: June, 25, 2024
   sub: [ ARCH, SYS ]
 
 - title: MICRO
