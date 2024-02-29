@@ -50,6 +50,16 @@
   date: March-April, 2024
   sub: [ ARCH, SYS ]
 
+- title: MICRO
+  year: 2024
+  id: micro57
+  link: https://microarch.org/micro57/index.php
+  deadline: '2024-04-18 23:59:59'
+  timezone: UTC-5
+  place: Austin, Texas, USA
+  date: November, 2-6, 2024
+  sub: [ ARCH, SYS ]
+
 - title: PACT
   year: 2024
   id: pact24  # title as lower case + last two digits of year
