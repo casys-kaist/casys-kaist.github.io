@@ -21,24 +21,153 @@
 #   note: Important
 # 2025
 #
+
+# [System]
+# SOSP
+# OSDI
+# ATC
+# EUROSYS
+# EMSOFT
+# NSDI
+# FAST
+# SoCC
+# Middleware
+
+# [Arch-System]
+# MLSYS
+# ASPLOS
+# SIGMOD
+# VLDB
+
+# [Arch]
+# ISCA
+# HPCA
+# MICRO
+# ICS
+# ICCD
+# ISPASS
+# IISWC
+# SC
+# PACT
+# ISMM
+# DAC
+# DATE
+# CAL
+# FPGA
+# FCCM
+# IPDPS
+
+# TODO for 2024 / 2025
+
+# [System]
+# OSDI
+# ATC
+# EMSOFT
+# FAST
+
+# [Arch-System]
+# MLSYS
+# SIGMOD
+# VLDB
+
+# [Arch]
+# ISCA
+# HPCA
+# ICS
+# ISPASS
+# DAC
+# CAL
+# FPGA
+# IPDPS
+
+- title: DATE
+  year: 2025
+  id: DATE25
+  link: https://www.date-conference.com/date-2025-call-papers
+  deadline: "2024-09-15 23:59:59"
+  timezone: UTC-12
+  place: Lyon, France
+  date: 31 March - 2 April 2025
+  sub: [ ARCH ]
+
+- title: IISWC
+  year: 2024
+  id: IISWC24
+  link: https://iiswc.org/iiswc2024/cfp.html
+  deadline: "2024-05-29 23:59:59"
+  timezone: UTC-12
+  place: Vancouver BC, Canada
+  date: September 15-17, 2024
+  sub: [ ARCH ]
+
+- title: ICCD
+  year: 2024
+  id: ICCD24
+  link: https://www.iccd-conf.com/Call_for_papers.html
+  deadline: "2024-05-12 23:59:59"
+  timezone: UTC-12
+  place: Milan, Italy
+  date: November, 2024
+  sub: [ ARCH ]
+
+- title: Middleware (Summer)
+  year: 2024
+  id: Middleware24Summer
+  link: https://middleware-conf.github.io/2024/calls/call-for-research-papers/
+  deadline: "2024-05-24 23:59:59"
+  timezone: UTC-12
+  place: Hong Kong, China
+  date: December 02-04, 2024
+  sub: [ SYS ]
+
+- title: SoCC
+  year: 2024
+  id: SoCC24
+  link: https://www.ieee-socc.org/
+  deadline: "2024-05-06 23:59:59"
+  timezone: UTC-4
+  place: Dresden, Germany
+  date: September 16-19, 2024
+  sub: [ SYS, ARCH ]
+
+- title: NSDI (Spring)
+  year: 2025
+  id: NSDI25spring
+  link: https://www.usenix.org/conference/nsdi25/call-for-papers
+  deadline: "2024-05-07 23:59:59"
+  timezone: UTC-4
+  place: Philadelphia, PA, USA
+  date: April 28–30, 2025
+  sub: [ SYS ]
+
+- title: NSDI (Fall)
+  year: 2025
+  id: NSDI25fall
+  link: https://www.usenix.org/conference/nsdi25/call-for-papers
+  deadline: "2024-09-19 23:59:59"
+  timezone: UTC-4
+  place: Philadelphia, PA, USA
+  date: April 28–30, 2025
+  sub: [ SYS ]
+
 - title: EuroSys (Spring)
   year: 2025
-  id: eurosys25spring  # title as lower case + last two digits of year
+  id: eurosys25spring
   link: https://www.eurosys.org/news/eurosys-2025
   deadline: '2024-05-21 23:59:59'
   timezone: UTC-12
   place: Rotterdam, Netherlands
-  date: TBA, 2025
+  date: March 30 - April 3, 2025
   sub: [ SYS ]
 
 - title: EuroSys (Fall)
   year: 2025
-  id: eurosys25fall  # title as lower case + last two digits of year
+  id: eurosys25fall
   link: https://www.eurosys.org/news/eurosys-2025
-  deadline: '2023-10-22 23:59:59'
+  deadline: '2024-10-22 23:59:59'
   timezone: UTC-12
   place: Rotterdam, Netherlands
-  date: TBA, 2025
+  date: March 30 - April 3, 2025
   sub: [ SYS ]
 
 - title: ASPLOS (Spring)
@@ -70,450 +199,3 @@
   place: Rotterdam, Netherladns
   date: March-April, 2024
   sub: [ ARCH, SYS ]
-    
-- title: ISMM
-  year: 2024
-  id: ismm24
-  link: https://conf.researchr.org/home/ismm-2024
-  deadline: '2024-03-22 12:00:00'
-  timezone: UTC-12
-  place: Copenhagen, Denmark
-  date: June, 25, 2024
-  sub: [ ARCH, SYS ]
-
-- title: MICRO
-  year: 2024
-  id: micro57
-  link: https://microarch.org/micro57/index.php
-  deadline: '2024-04-18 23:59:59'
-  timezone: UTC-5
-  place: Austin, Texas, USA
-  date: November, 2-6, 2024
-  sub: [ ARCH, SYS ]
-
-- title: PACT
-  year: 2024
-  id: pact24  # title as lower case + last two digits of year
-  link: https://pact2024.github.io/
-  deadline: '2024-03-27 23:59:59'
-  timezone: UTC-12
-  place: Long Beach, CA, USA
-  date: October, 13-16, 2024
-  sub: [ ARCH ]
-    
-
-- title: DAC
-  year: 2024
-  id: dac24
-  link: https://www.dac.com/Conference/2024-Call-for-Contributions
-  deadline: '2023-11-20 16:59:59'
-  timezone: PST
-  place: San Francisco, CA
-  date: June 23-27, 2024
-  sub: [ ARCH ]
-
-- title: SIGMOD
-  year: 2024
-  id: sigmod24
-  link: https://2024.sigmod.org/
-  deadline: '2023-10-15 23:59:59'
-  timezone: PST
-  place: Santiago, Chile
-  date: June 9-15, 2024
-  sub: [ OTHER ]
-
-- title: VLDB (every month)
-  year: 2024
-  id: vldb24
-  link: https://vldb.org/2024/
-  deadline: '2024-01-01 16:59:59'
-  timezone: PST
-  place: Guangzhou, China (Hybrid)
-  date: August 25-29, 2024
-  sub: [ OTHER ]
-
-- title: ECCV
-  year: 2024
-  id: eccv24
-  link: https://eccv2024.ecva.net/
-  deadline: '2024-03-07 12:59:59'
-  timezone: PST
-  place: Milano, Italy
-  date: September 29-October 04, 2024
-  sub: [ ML ]
-
-- title: CVPR
-  year: 2024
-  id: cvpr24
-  link: https://cvpr.thecvf.com/
-  deadline: '2023-11-18 07:59:59'
-  timezone: UTC
-  place: Seattle WA, USA
-  date: June 19-21, 2024
-  sub: [ ML ]
-
-- title: ICLR
-  year: 2024
-  id: iclr24
-  link: https://iclr.cc/
-  deadline: '2024-02-28 23:59:59'
-  timezone: AoE
-  place: Vienna, Austria
-  date: May 7-11, 2024
-  sub: [ ML ]
-
-- title: ICML
-  year: 2024
-  id: icml24
-  link: https://icml.cc/
-  deadline: '2024-02-01 23:59:59'
-  timezone: AoE
-  place: Vienna, Austria
-  date: July 21-27, 2024
-  sub: [ ML ]
-
-- title: ATC
-  year: 2024
-  id: atc24
-  link: https://www.usenix.org/conference/atc24
-  deadline: '2024-01-16 23:59:59'
-  timezone: UTC
-  place: Santa Clara, CA, USA
-  date: July 10-12, 2024
-  sub: [ SYS ]
-
-- title: ISCA
-  year: 2024
-  id: isca24  # title as lower case + last two digits of year
-  link: http://iscaconf.org/isca2024/
-  deadline: '2023-11-21 23:59:59'
-  timezone: UTC-12
-  place: Buenos Aires, Argentina
-  date: June 29-July 3, 2024
-  sub: [ ARCH ]
-
-- title: EuroSys (Spring)
-  year: 2024
-  id: eurosys24spring  # title as lower case + last two digits of year
-  link: https://www.eurosys.org/news/eurosys-2024
-  deadline: '2023-05-18 23:59:59'
-  timezone: UTC+0
-  place: Athens, Greece
-  date: April, 23-26, 2024
-  sub: [ SYS ]
-
-- title: EuroSys (Fall)
-  year: 2024
-  id: eurosys24fall  # title as lower case + last two digits of year
-  link: https://www.eurosys.org/news/eurosys-2024
-  deadline: '2023-10-19 23:59:59'
-  timezone: UTC+0
-  place: Athens, Greece
-  date: April, 23-26, 2024
-  sub: [ SYS ]
-
-- title: OSDI
-  year: 2024
-  id: osdi24  # title as lower case + last two digits of year
-  link: https://www.usenix.org/conference/osdi24
-  deadline: '2023-12-13 17:59:59'
-  timezone: EST
-  place: TBD
-  date: TBD
-  sub: [ TBD, SYS ]
-
-- title: MLSys
-  year: 2024
-  id: mlsys24  # title as lower case + last two digits of year
-  link: https://mlsys.org/
-  deadline: '2023-10-27 20:00:00'
-  timezone: UTC
-  place: Santa Clara, CA, USA
-  date: May, 13-16, 2024
-  sub: [ ARCH, SYS ]
-
-- title: DATE
-  year: 2024
-  id: date24  # title as lower case + last two digits of year
-  link: https://www.date-conference.com/
-  deadline: '2023-09-25 23:59:59'
-  timezone: UTC-12
-  place: Valencia, Spain
-  date: March, 25-27, 2024
-  sub: [ TBD, ARCH ]
-
-
-- title: IISWC
-  year: 2023
-  id: iiswc23  # title as lower case + last two digits of year
-  link: http://www.iiswc.org/iiswc2023/index.html
-  deadline: '2023-06-14 17:00:00'
-  timezone: UTC-4
-  place: Ghent, Belgium
-  date: October, 1-3, 2023
-  sub: [ OTHER ]
-
-- title: PACT
-  year: 2023
-  id: pact23  # title as lower case + last two digits of year
-  link: https://pact2023.github.io/
-  deadline: '2023-04-15 23:59:59'
-  timezone: UTC-12
-  place: Vienna, Austria
-  date: October, 21-25, 2023
-  sub: [ ARCH ]
-
-- title: ICCD
-  year: 2023
-  id: iccd23  # title as lower case + last two digits of year
-  link: https://www.iccd-conf.com/Home.html
-  deadline: '2023-06-16 23:59:59'
-  timezone: UTC-12
-  place: Washington DC, USA
-  date: November, 6-8, 2023
-  sub: [ ARCH ]
-
-# 2024
-- title: ASPLOS (Spring)
-  year: 2024
-  id: asplos24spring
-  link: https://asplos-conference.org/
-  deadline: '2023-04-20 15:00:00'
-  timezone: UTC-4
-  place: San Diego, CA, USA
-  date: April, 2024
-  sub: [ ARCH, SYS ]
-
-- title: HPCA
-  year: 2024
-  id: hpca24  # title as lower case + last two digits of year
-  link: https://hpca-conf.org/2024/
-  deadline: '2023-08-05 06:59:59'
-  timezone: UTC
-  place: Edinburgh, United Kingdom
-  date: March, 2-6, 2024
-  sub: [ TBD, ARCH ]
-
-- title: ASPLOS (Summer)
-  year: 2024
-  id: asplos24summer
-  link: https://asplos-conference.org/
-  deadline: '2023-08-10 15:00:00'
-  timezone: UTC-4
-  place: San Diego, CA, USA
-  date: April, 2024
-  sub: [ ARCH, SYS ]
-
-- title: ASPLOS (Fall)
-  year: 2024
-  id: asplos24fall
-  link: https://asplos-conference.org/
-  deadline: '2023-11-30 15:00:00'
-  timezone: UTC-4
-  place: San Diego, CA, USA
-  date: April, 2024
-  sub: [ ARCH, SYS ]
-
-# 2023
-- title: MICRO
-  year: 2023
-  id: micro23  # title as lower case + last two digits of year
-  link: https://www.microarch.org/micro56/
-  deadline: '2023-04-28 23:59:59'
-  timezone: UTC-7
-  place: Toronto, Canada
-  date: October 27 - November 1, 2023
-  sub: [ ARCH ]
-
-- title: ATC
-  year: 2023
-  id: atc23  # title as lower case + last two digits of year
-  link: https://www.usenix.org/conference/atc23
-  deadline: '2023-01-05 23:59:59'
-  timezone: UTC
-  place: Boston, USA
-  date: July, 10-12, 2023
-  sub: SYS
-
-- title: SOSP
-  year: 2023
-  id: sosp23  # title as lower case + last two digits of year
-  link: https://sosp2023.mpi-sws.org/
-  deadline: '2023-04-17 23:59:59'
-  timezone: UTC-4
-  place: Koblenz, Germany
-  date: October, 23-26, 2023
-  sub: SYS
-
-- title: OSDI
-  year: 2023
-  id: osdi23  # title as lower case + last two digits of year
-  link: https://www.usenix.org/conference/osdi23
-  deadline: '2022-12-13 17:59:59'
-  timezone: EST
-  place: Boston, USA
-  date: July, 10-12, 2023
-  sub: SYS
-
-- title: ISCA
-  year: 2023
-  id: isca23  # title as lower case + last two digits of year
-  link: http://iscaconf.org/isca2023/
-  deadline: '2022-11-21 23:59:59'
-  timezone: UTC-12
-  place: Orlando, USA
-  date: June, 17-21, 2023
-  sub: ARCH
-
-- title: HPCA
-  year: 2023
-  id: hpca23  # title as lower case + last two digits of year
-  link: https://www.hpca-conf.org/2023
-  deadline: '2022-08-01 23:59:59'
-  timezone: UTC
-  place: Montreal, Canada
-  date: February 25-March 1, 2023
-  sub: ARCH
-
-- title: EuroSys (Spring)
-  year: 2023
-  id: eurosys23spring  # title as lower case + last two digits of year
-  link: https://2023.eurosys.org/
-  deadline: '2022-05-19 01:59:59'
-  timezone: UTC+2
-  place: Rome, Italy
-  date: May, 8-12, 2023
-  sub: SYS
-
-- title: EuroSys (Fall)
-  year: 2023
-  id: eurosys23fall  # title as lower case + last two digits of year
-  link: https://2023.eurosys.org/
-  deadline: '2022-10-20 01:59:59'
-  timezone: UTC+2
-  place: Rome, Italy
-  date: May, 8-12, 2023
-  sub: SYS
-
-- title: ASPLOS (Spring)
-  year: 2023
-  id: asplos23spring  # title as lower case + last two digits of year
-  link: https://asplos-conference.org/
-  deadline: '2022-03-31 18:00:00'
-  timezone: UTC-4
-  place: Vancouver, Canada
-  date: March, 25-29, 2023
-  sub: [ ARCH, SYS ]
-
-- title: ASPLOS (Summer)
-  year: 2023
-  id: asplos23summer  # title as lower case + last two digits of year
-  link: https://asplos-conference.org/
-  deadline: '2022-07-07 18:00:00'
-  timezone: UTC-4
-  place: Vancouver, Canada
-  date: March, 25-29, 2023
-  sub: [ ARCH, SYS ]
-
-- title: ASPLOS (Fall)
-  year: 2023
-  id: asplos23fall  # title as lower case + last two digits of year
-  link: https://asplos-conference.org/
-  deadline: '2022-10-20 18:00:00'
-  timezone: UTC-4
-  place: Vancouver, Canada
-  date: March, 25-29, 2023
-  sub: [ ARCH, SYS ]
-
-- title: DAC
-  year: 2023
-  id: dac23  # title as lower case + last two digits of year
-  link: https://www.dac.com/
-  deadline: '2022-11-21 17:00:00'
-  timezone: UTC-8
-  place: San Fransico, USA
-  date: July, 9-13, 2023
-  sub: ARCH
-
-- title: MLSys
-  year: 2023
-  id: mlsys23  # title as lower case + last two digits of year
-  link: https://mlsys.org/
-  deadline: '2022-10-28 16:00:00'
-  timezone: UTC-4
-  place: Miami, USA
-  date: June, 4-8, 2023
-  sub: SYS
-
-- title: DATE
-  year: 2023
-  id: date23  # title as lower case + last two digits of year
-  link: https://www.date-conference.com/
-  deadline: '2022-09-25 23:59:59'
-  timezone: UTC-12
-  place: Antwerpen, Belgium
-  date: April, 17-19, 2023
-  sub: ARCH
-
-- title: ICS
-  year: 2023
-  id: ics23  # title as lower case + last two digits of year
-  link: https://nschiele.github.io/ICS2023/
-  deadline: '2023-02-03 23:59:59'
-  timezone: UTC-12
-  place: Orlando, USA
-  date: June, 21-23, 2023
-  sub: [ SYS, ARCH ]
-
-- title: SC
-  year: 2023
-  id: sc23  # title as lower case + last two digits of year
-  link: https://sc23.supercomputing.org/
-  deadline: '2023-04-06 23:59:59'
-  timezone: UTC-12
-  place: Denver, USA
-  date: November, 12-17, 2023
-  sub: [ SYS, ARCH ]
-
-
-# 2022
-- title: MICRO
-  year: 2022
-  id: micro22  # title as lower case + last two digits of year
-  link: https://www.microarch.org/micro55/
-  deadline: '2022-04-21 23:59:59'
-  timezone: UTC-7
-  place: Chichago, USA
-  date: October, 1-5, 2022
-  sub: ARCH
-
-- title: IISWC
-  year: 2022
-  id: iiswc22  # title as lower case + last two digits of year
-  link: http://www.iiswc.org/iiswc2022/index.html
-  deadline: '2022-07-15 17:00:00'
-  timezone: UTC-4
-  place: Austin, USA
-  date: November, 6-8, 2022
-  sub: OTHER
-
-- title: PACT
-  year: 2022
-  id: pact22  # title as lower case + last two digits of year
-  link: https://pact22.cs.illinois.edu/
-  deadline: '2022-04-25 07:59:59'
-  timezone: UTC-4
-  place: Chicago, USA
-  date: October, 10-12, 2022
-  sub: ARCH
-
-- title: ICCD
-  year: 2022
-  id: iccd22  # title as lower case + last two digits of year
-  link: https://www.iccd-conf.com/Home.html
-  deadline: '2022-06-18 23:59:59'
-  timezone: UTC-12
-  place: Lake Tahoe, USA
-  date: October, 23-26, 2023
-  sub: ARCH
-
