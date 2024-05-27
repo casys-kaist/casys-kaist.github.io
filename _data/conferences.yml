@@ -64,6 +64,7 @@
 # ATC
 # EMSOFT
 # FAST
+# NSDI
 
 # [Arch-System]
 # MLSYS
@@ -79,6 +80,16 @@
 # CAL
 # FPGA
 # IPDPS
+
+- title: HPCA
+  year: 2025
+  id: hpca25
+  link: https://hpca-conf.org/2025/
+  deadline: "2024-08-02 23:59:59"
+  timezone: UTC-7
+  place: Las Vegas, NV, USA
+  date: March 1 - 5, 2025
+  sub: [ ARCH ]
 
 - title: DATE
   year: 2025
