@@ -81,6 +81,17 @@
 # FPGA
 # IPDPS
 
+- title: FAST
+  year: 2025
+  id: fast25
+  link: https://www.usenix.org/conference/fast25
+  deadline: "2024-09-17 23:59:59"
+  timezone: UTC-7
+  place: Santa Clara, CA, USA
+  date: February 25 - 27, 2025
+  sub: [ SYS ]
+
+
 - title: HPCA
   year: 2025
   id: hpca25
