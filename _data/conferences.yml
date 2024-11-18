@@ -81,6 +81,16 @@
 # FPGA
 # IPDPS
 
+- title: ATC
+  year: 2025
+  id: atc25
+  link: https://www.usenix.org/conference/atc25
+  deadline: "2025-01-14 23:59:59"
+  timezone: UTC+0
+  place: Boston, MA, USA
+  date: July 7 – 9, 2025
+  sub: [ SYS ]
+
 - title: FAST
   year: 2025
   id: fast25
