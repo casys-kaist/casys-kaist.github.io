@@ -81,6 +81,17 @@
 # FPGA
 # IPDPS
 
+
+- title: OSDI
+  year: 2025
+  id: osdi25
+  link: https://www.usenix.org/conference/osdi25
+  deadline: "2024-12-10 17:59:59"
+  timezone: UTC-5
+  place: Boston, MA, USA
+  date: July 7 – 9, 2025
+  sub: [ SYS ]
+
 - title: ATC
   year: 2025
   id: atc25
