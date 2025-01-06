@@ -84,7 +84,16 @@
 function load_conference_list() {
   // Gather data
   var conf_list_all = [];
-  {% for conf in site.data.conferences %}
+  {% assign all_conferences = "" %}
+  {% assign all_conferences = all_conferences | split: "," %}
+
+  {% for category in site.data.conferences %}
+    {% for conf in category[1] %}
+      {% assign all_conferences = all_conferences | push: conf %}
+    {% endfor %}
+  {% endfor %}
+
+  {% for conf in all_conferences %}
     // add deadlines in red
     conf_list_all.push({
       id: "{{conf.id}}-deadline",

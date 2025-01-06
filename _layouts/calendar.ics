@@ -3,7 +3,14 @@ METHOD:PUBLISH
 VERSION:2.0
 PRODID:-//{{ site.domain }}//ai-deadlines//EN
 X-PUBLISHED-TTL:PT1H
-{%- for conf in site.data.conferences -%}
+{% assign all_conferences = "" %}
+{% assign all_conferences = all_conferences | split: "," %}
+{%- for category in site.data.conferences -%}
+  {%- for conf in category[1] -%}
+    {% assign all_conferences = all_conferences | push: conf %}
+  {%- endfor -%}
+{%- endfor -%}
+{%- for conf in all_conferences -%}
 {% if conf.abstract_deadline and conf.abstract_deadline != "TBA" %}
 BEGIN:VEVENT
 SUMMARY:{{ conf.title }} {{ conf.year }} abstract deadline
