@@ -7,7 +7,9 @@ bundle add jekyll
 bundle exec jekyll serve
 ```
 
-If you want to add conference, edit **./_data/conferences.yml**.
+- If you want to add conference, add them to file under **./_data/conferences/**, e.g., **./_data/conferences/2026.yml**. Use the year of conference date, not the year of submission deadline.
+- When adding a conference which doesn't have a CFP yet, please add it with TBD tag. Later when the CFP is available, please remove the TBD tag and update the information.
+- Please don't remove past conferences for reference.
 
 If you want to add type for conference, edit **./_data/types.yml**.
 
