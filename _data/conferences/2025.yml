@@ -74,7 +74,9 @@
   deadline: "2024-12-10 17:59:59"
   timezone: UTC-5
   place: Boston, MA, USA
-  date: July 7 – 9, 2025
+  date: July 7–9, 2025
+  start: 2025-07-07
+  end: 2025-07-09
   sub: [ SYS ]
 
 - title: ATC
@@ -84,7 +86,9 @@
   deadline: "2025-01-14 23:59:59"
   timezone: UTC+0
   place: Boston, MA, USA
-  date: July 7 – 9, 2025
+  date: July 7–9, 2025
+  start: 2025-07-07
+  end: 2025-07-09
   sub: [ SYS ]
 
 - title: FAST
@@ -94,7 +98,9 @@
   deadline: "2024-09-17 23:59:59"
   timezone: UTC-7
   place: Santa Clara, CA, USA
-  date: February 25 - 27, 2025
+  date: February 25–27, 2025
+  start: 2025-02-25
+  end: 2025-02-27 
   sub: [ SYS ]
 
 - title: ISCA
@@ -104,7 +110,9 @@
   deadline: "2024-11-22 23:59:59"
   timezone: UTC-12
   place: Tokyo, Japan
-  date: June 21 – 25, 2025
+  date: June 21–25, 2025
+  start: 2025-06-21
+  end: 2025-06-25
   sub: [ ARCH ]
 
 - title: HPCA
@@ -114,7 +122,9 @@
   deadline: "2024-08-02 23:59:59"
   timezone: UTC-7
   place: Las Vegas, NV, USA
-  date: March 1 - 5, 2025
+  date: March 1–5, 2025
+  start: 2025-03-01
+  end: 2025-03-05
   sub: [ ARCH ]
 
 - title: DATE
@@ -124,7 +134,9 @@
   deadline: "2024-09-15 23:59:59"
   timezone: UTC-12
   place: Lyon, France
-  date: 31 March - 2 April 2025
+  date: 31 March–2 April 2025
+  start: 2025-03-31
+  end: 2025-04-02
   sub: [ ARCH ]
 
 - title: NSDI (Spring)
@@ -135,6 +147,8 @@
   timezone: UTC-4
   place: Philadelphia, PA, USA
   date: April 28–30, 2025
+  start: 2025-04-28
+  end: 2025-04-30
   sub: [ SYS ]
 
 - title: NSDI (Fall)
@@ -145,6 +159,8 @@
   timezone: UTC-4
   place: Philadelphia, PA, USA
   date: April 28–30, 2025
+  start: 2025-04-28
+  end: 2025-04-30
   sub: [ SYS ]
 
 - title: EuroSys (Spring)
@@ -154,7 +170,9 @@
   deadline: '2024-05-21 23:59:59'
   timezone: UTC-12
   place: Rotterdam, Netherlands
-  date: March 30 - April 3, 2025
+  date: March 30–April 3, 2025
+  start: 2025-03-30
+  end: 2025-04-03
   sub: [ SYS ]
 
 - title: EuroSys (Fall)
@@ -164,7 +182,9 @@
   deadline: '2024-10-22 23:59:59'
   timezone: UTC-12
   place: Rotterdam, Netherlands
-  date: March 30 - April 3, 2025
+  date: March 30–April 3, 2025
+  start: 2025-03-30
+  end: 2025-04-03
   sub: [ SYS ]
 
 - title: ASPLOS (Spring)
@@ -174,7 +194,9 @@
   deadline: '2024-03-01 23:59:59'
   timezone: UTC-12
   place: Rotterdam, Netherlands
-  date: March-April, 2024
+  date: March 30–April 3, 2025
+  start: 2025-03-30
+  end: 2025-04-03
   sub: [ ARCH, SYS ]
 
 - title: ASPLOS (Summer)
@@ -184,7 +206,9 @@
   deadline: '2024-06-24 23:59:59'
   timezone: UTC-12
   place: Rotterdam, Netherlands
-  date: March-April, 2024
+  date: March 30–April 3, 2025
+  start: 2025-03-30
+  end: 2025-04-03
   sub: [ ARCH, SYS ]
 
 - title: ASPLOS (Fall)
@@ -194,7 +218,9 @@
   deadline: '2024-10-18 23:59:59'
   timezone: UTC-12
   place: Rotterdam, Netherlands
-  date: March-April, 2024
+  date: March 30–April 3, 2025
+  start: 2025-03-30
+  end: 2025-04-03
   sub: [ ARCH, SYS ]
 
 - title: IISWC
@@ -244,7 +270,9 @@
   deadline: '2025-03-11 23:59:59'
   timezone: UTC-12
   place: Seoul, South Korea
-  date: June 17, 2025  
+  date: June 17, 2025
+  start: 2025-06-17
+  end: 2025-06-17
   sub: [ ARCH, SYS ]
 
 - title: MICRO
@@ -284,7 +312,9 @@
   deadline: '2024-10-15 23:59:59'
   timezone: PST
   place: Berlin, Germany
-  date: June 22 - 27, 2025
+  date: June 22–27, 2025
+  start: 2025-06-22
+  end: 2025-06-27
   sub: [ OTHER ]
 
 # - title: VLDB (every month)
