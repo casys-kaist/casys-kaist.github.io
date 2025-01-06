@@ -65,7 +65,20 @@
         </div>
         <div id="confs">
         <div id="coming_confs">
-          {% for conf in site.data.conferences %}
+          {% assign all_conferences = "" %}
+          {% assign all_conferences = all_conferences | split: "," %}
+
+          <!-- Iterate over all subcategories -->
+          {% for category in site.data.conferences %}
+            {% for conf in category[1] %}
+              {% assign all_conferences = all_conferences | push: conf %}
+            {% endfor %}
+          {% endfor %}
+
+          <pre>{{ all_conferences | jsonify }}</pre>
+
+          {% for conf in all_conferences %}
+
           <div id="{{conf.id}}" class="ConfItem {% for sub in conf.sub %} {{sub}}-conf {% endfor %}">
             <div class="row conf-row">
                 <div class="col-6">
@@ -166,7 +179,7 @@
           $('.local-timezone-hide').hide();
         }
 
-        {% for conf in site.data.conferences %}
+        {% for conf in all_conferences %}
         {% for sub in conf.sub %}
         $('#{{conf.id}} .{{sub}}-tag').html(sub2name["{{sub}}"].toLocaleLowerCase());
         {% endfor %}
