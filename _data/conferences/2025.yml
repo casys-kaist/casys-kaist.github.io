@@ -241,11 +241,11 @@
   year: 2025
   id: ismm25
   link: https://conf.researchr.org/home/ismm-2025
-  deadline: '2025-03-22 12:00:00'
+  deadline: '2025-03-11 23:59:59'
   timezone: UTC-12
-  place: TBD
-  date: TBD
-  sub: [ ARCH, SYS, TBD ]
+  place: Seoul, South Korea
+  date: June 17, 2025  
+  sub: [ ARCH, SYS ]
 
 - title: MICRO
   year: 2025
