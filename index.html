@@ -75,8 +75,6 @@
             {% endfor %}
           {% endfor %}
 
-          <pre>{{ all_conferences | jsonify }}</pre>
-
           {% for conf in all_conferences %}
 
           <div id="{{conf.id}}" class="ConfItem {% for sub in conf.sub %} {{sub}}-conf {% endfor %}">

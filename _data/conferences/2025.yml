@@ -1,0 +1,348 @@
+---
+
+# Make sure it has the title, year, id, link, deadline, timezone, date, place, sub attributes
+
+# - title: BestConf
+#   year: 2022
+#   id: bestconf22  # title as lower case + last two digits of year
+#   full_name: Best Conference for Anything  # full conference name
+#   link: link-to-website.com
+#   deadline: YYYY-MM-DD HH:SS
+#   abstract_deadline: YYYY-MM-DD HH:SS
+#   timezone: Asia/Seoul
+#   place: Incheon, South Korea
+#   date: September, 18-22, 2022
+#   start: YYYY-MM-DD
+#   end: YYYY-MM-DD
+#   paperslink: link-to-full-paper-list.com
+#   pwclink: link-to-papers-with-code.com
+#   hindex: 100.0
+#   sub: SP
+#   note: Important
+
+# 2025
+# [x] denotes conference with CFP available
+# [-] denotes conference with CFP not available (should have TBD tag)
+# [ ] denotes conference is not updated on this list
+
+# [System]
+# [ ] SOSP
+# [x] OSDI
+# [x] ATC
+# [x] EuroSys
+# [ ] EMSOFT
+# [x] NSDI
+# [x] FAST
+# [-] SoCC
+# [-] Middleware
+
+# [Arch-System]
+# [-] MLSYS
+# [x] ASPLOS
+# [-] SIGMOD
+# [#] VLDB # montly, add if needed
+
+# [Arch]
+# [x] ISCA
+# [x] HPCA
+# [-] MICRO
+# [ ] ICS
+# [-] ICCD
+# [ ] ISPASS
+# [-] IISWC
+# [ ] SC
+# [-] PACT
+# [-] ISMM
+# [-] DAC
+# [x] DATE
+# [ ] CAL
+# [ ] FPGA
+# [ ] FCCM
+# [ ] IPDPS
+
+# [ML]
+# [-] ECCV
+# [-] CVPR
+# [-] ICLR
+# [-] ICML
+# [ ] NeurIPS
+
+- title: OSDI
+  year: 2025
+  id: osdi25
+  link: https://www.usenix.org/conference/osdi25
+  deadline: "2024-12-10 17:59:59"
+  timezone: UTC-5
+  place: Boston, MA, USA
+  date: July 7 – 9, 2025
+  sub: [ SYS ]
+
+- title: ATC
+  year: 2025
+  id: atc25
+  link: https://www.usenix.org/conference/atc25
+  deadline: "2025-01-14 23:59:59"
+  timezone: UTC+0
+  place: Boston, MA, USA
+  date: July 7 – 9, 2025
+  sub: [ SYS ]
+
+- title: FAST
+  year: 2025
+  id: fast25
+  link: https://www.usenix.org/conference/fast25
+  deadline: "2024-09-17 23:59:59"
+  timezone: UTC-7
+  place: Santa Clara, CA, USA
+  date: February 25 - 27, 2025
+  sub: [ SYS ]
+
+- title: ISCA
+  year: 2025
+  id: isca25
+  link: https://www.iscaconf.org/isca2025/submit/papers.php
+  deadline: "2024-11-22 23:59:59"
+  timezone: UTC-12
+  place: Tokyo, Japan
+  date: June 21 – 25, 2025
+  sub: [ ARCH ]
+
+- title: HPCA
+  year: 2025
+  id: hpca25
+  link: https://hpca-conf.org/2025/
+  deadline: "2024-08-02 23:59:59"
+  timezone: UTC-7
+  place: Las Vegas, NV, USA
+  date: March 1 - 5, 2025
+  sub: [ ARCH ]
+
+- title: DATE
+  year: 2025
+  id: DATE25
+  link: https://www.date-conference.com/date-2025-call-papers
+  deadline: "2024-09-15 23:59:59"
+  timezone: UTC-12
+  place: Lyon, France
+  date: 31 March - 2 April 2025
+  sub: [ ARCH ]
+
+- title: NSDI (Spring)
+  year: 2025
+  id: NSDI25spring
+  link: https://www.usenix.org/conference/nsdi25/call-for-papers
+  deadline: "2024-05-07 23:59:59"
+  timezone: UTC-4
+  place: Philadelphia, PA, USA
+  date: April 28–30, 2025
+  sub: [ SYS ]
+
+- title: NSDI (Fall)
+  year: 2025
+  id: NSDI25fall
+  link: https://www.usenix.org/conference/nsdi25/call-for-papers
+  deadline: "2024-09-19 23:59:59"
+  timezone: UTC-4
+  place: Philadelphia, PA, USA
+  date: April 28–30, 2025
+  sub: [ SYS ]
+
+- title: EuroSys (Spring)
+  year: 2025
+  id: eurosys25spring
+  link: https://www.eurosys.org/news/eurosys-2025
+  deadline: '2024-05-21 23:59:59'
+  timezone: UTC-12
+  place: Rotterdam, Netherlands
+  date: March 30 - April 3, 2025
+  sub: [ SYS ]
+
+- title: EuroSys (Fall)
+  year: 2025
+  id: eurosys25fall
+  link: https://www.eurosys.org/news/eurosys-2025
+  deadline: '2024-10-22 23:59:59'
+  timezone: UTC-12
+  place: Rotterdam, Netherlands
+  date: March 30 - April 3, 2025
+  sub: [ SYS ]
+
+- title: ASPLOS (Spring)
+  year: 2025
+  id: asplos25spring
+  link: https://www.asplos-conference.org/asplos2025/cfp/
+  deadline: '2024-03-01 23:59:59'
+  timezone: UTC-12
+  place: Rotterdam, Netherlands
+  date: March-April, 2024
+  sub: [ ARCH, SYS ]
+
+- title: ASPLOS (Summer)
+  year: 2025
+  id: asplos25summer
+  link: https://www.asplos-conference.org/asplos2025/cfp/
+  deadline: '2024-06-24 23:59:59'
+  timezone: UTC-12
+  place: Rotterdam, Netherlands
+  date: March-April, 2024
+  sub: [ ARCH, SYS ]
+
+- title: ASPLOS (Fall)
+  year: 2025
+  id: asplos25fall
+  link: https://www.asplos-conference.org/asplos2025/cfp/
+  deadline: '2024-10-18 23:59:59'
+  timezone: UTC-12
+  place: Rotterdam, Netherlands
+  date: March-April, 2024
+  sub: [ ARCH, SYS ]
+
+- title: IISWC
+  year: 2025
+  id: IISWC25
+  link: https://iiswc.org/iiswc2025/cfp.html
+  deadline: "2025-06-03 23:59:59"
+  timezone: UTC-12
+  place: TBD
+  date: TBD
+  sub: [ ARCH, TBD ]
+
+- title: ICCD
+  year: 2025
+  id: ICCD25
+  link: https://www.iccd-conf.com/Call_for_papers.html
+  deadline: "2025-05-12 23:59:59"
+  timezone: UTC-12
+  place: TBD
+  date: TBD
+  sub: [ ARCH, TBD ]
+
+- title: Middleware (Summer)
+  year: 2025
+  id: Middleware25Summer
+  link: https://middleware-conf.github.io/2026/calls/call-for-research-papers/
+  deadline: "2025-05-24 23:59:59"
+  timezone: UTC-12
+  place: TBD
+  date: TBD
+  sub: [ SYS, TBD ]
+
+- title: SoCC
+  year: 2025
+  id: SoCC25
+  link: https://www.ieee-socc.org/
+  deadline: "2025-05-06 23:59:59"
+  timezone: UTC-4
+  place: TBD
+  date: TBD
+  sub: [ SYS, TBD ]
+
+- title: ISMM
+  year: 2025
+  id: ismm25
+  link: https://conf.researchr.org/home/ismm-2025
+  deadline: '2025-03-22 12:00:00'
+  timezone: UTC-12
+  place: TBD
+  date: TBD
+  sub: [ ARCH, SYS, TBD ]
+
+- title: MICRO
+  year: 2025
+  id: micro25
+  link: https://microarch.org/micro57/index.php
+  deadline: '2024-04-18 23:59:59'
+  timezone: UTC-5
+  place: TBD
+  date: TBD
+  sub: [ ARCH, SYS, TBD ]
+
+- title: PACT
+  year: 2025
+  id: pact25
+  link: https://pact2024.github.io/
+  deadline: '2025-03-27 23:59:59'
+  timezone: UTC-12
+  place: TBD
+  date: TBD
+  sub: [ ARCH, TBD ]
+
+- title: DAC
+  year: 2025
+  id: dac25
+  link: https://www.dac.com/Conference/2024-Call-for-Contributions
+  deadline: '2024-11-20 16:59:59'
+  timezone: PST
+  place: TBD
+  date: TBD
+  sub: [ ARCH, TBD ]
+
+- title: SIGMOD
+  year: 2025
+  id: sigmod25
+  link: https://2025.sigmod.org/
+  deadline: '2024-10-15 23:59:59'
+  timezone: PST
+  place: TBD
+  date: TBD
+  sub: [ OTHER, TBD ]
+
+# - title: VLDB (every month)
+#   year: 2025
+#   id: vldb25
+#   link: https://vldb.org/2025/
+#   deadline: '2025-01-01 16:59:59'
+#   timezone: PST
+#   place: TBD
+#   date: TBD
+#   sub: [ OTHER ]
+
+# - title: ECCV
+  year: 2025
+  id: eccv25
+  link: https://eccv2025.ecva.net/
+  deadline: '2025-03-07 12:59:59'
+  timezone: PST
+  place: TBD
+  date: TBD
+  sub: [ ML, TBD ]
+
+- title: CVPR
+  year: 2025
+  id: cvpr25
+  link: https://cvpr.thecvf.com/
+  deadline: '2024-11-18 07:59:59'
+  timezone: UTC
+  place: TBD
+  date: TBD
+  sub: [ ML, TBD ]
+
+- title: ICLR
+  year: 2025
+  id: iclr25
+  link: https://iclr.cc/
+  deadline: '2025-02-28 23:59:59'
+  timezone: AoE
+  place: TBD
+  date: TBD
+  sub: [ ML, TBD ]
+
+- title: ICML
+  year: 2025
+  id: icml25
+  link: https://icml.cc/
+  deadline: '2025-02-01 23:59:59'
+  timezone: AoE
+  place: TBD
+  date: TBD
+  sub: [ ML, TBD ]
+
+- title: MLSys
+  year: 2025
+  id: mlsys25
+  link: https://mlsys.org/
+  deadline: '2024-10-27 20:00:00'
+  timezone: UTC
+  place: TBD
+  date: TBD
+  sub: [ ML, TBD ]

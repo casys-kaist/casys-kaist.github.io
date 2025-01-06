@@ -1,7 +1,5 @@
 ---
 
-# TBD (To Be Determined, we haven't got the CFP yet)
-
 # Make sure it has the title, year, id, link, deadline, timezone, date, place, sub attributes
 
 # - title: BestConf
@@ -21,68 +19,53 @@
 #   hindex: 100.0
 #   sub: SP
 #   note: Important
-# 2025
-#
+
+# 2026
+# [x] denotes conference with CFP available
+# [-] denotes conference with CFP not available (should have TBD tag)
+# [ ] denotes conference is not updated on this list
 
 # [System]
-# SOSP
-# OSDI
-# ATC
-# EUROSYS
-# EMSOFT
-# NSDI
-# FAST
-# SoCC
-# Middleware
+# [ ] SOSP
+# [-] OSDI
+# [-] ATC
+# [-] EuroSys
+# [ ] EMSOFT
+# [-] NSDI
+# [-] FAST
+# [ ] SoCC
+# [ ] Middleware
 
 # [Arch-System]
-# MLSYS
-# ASPLOS
-# SIGMOD
-# VLDB
+# [ ] MLSYS
+# [-] ASPLOS
+# [ ] SIGMOD
+# [#] VLDB # montly, add if needed
 
 # [Arch]
-# ISCA
-# HPCA
-# MICRO
-# ICS
-# ICCD
-# ISPASS
-# IISWC
-# SC
-# PACT
-# ISMM
-# DAC
-# DATE
-# CAL
-# FPGA
-# FCCM
-# IPDPS
+# [-] ISCA
+# [-] HPCA
+# [ ] MICRO
+# [ ] ICS
+# [ ] ICCD
+# [ ] ISPASS
+# [ ] IISWC
+# [ ] SC
+# [ ] PACT
+# [ ] ISMM
+# [ ] DAC
+# [-] DATE
+# [ ] CAL
+# [ ] FPGA
+# [ ] FCCM
+# [ ] IPDPS
 
-# TODO for 2024 / 2025
-
-# [System]
-# OSDI
-# ATC
-# EMSOFT
-# FAST
-# NSDI
-
-# [Arch-System]
-# MLSYS
-# SIGMOD
-# VLDB
-
-# [Arch]
-# ISCA
-# HPCA
-# ICS
-# ISPASS
-# DAC
-# CAL
-# FPGA
-# IPDPS
-
+# [ML]
+# [ ] ECCV
+# [ ] CVPR
+# [ ] ICLR
+# [ ] ICML
+# [ ] NeurIPS
 
 - title: OSDI
   year: 2026
@@ -98,7 +81,7 @@
   year: 2026
   id: atc26
   link: https://www.usenix.org/conference/atc26
-  deadline: "2025-01-14 23:59:59"
+  deadline: "2026-01-14 23:59:59"
   timezone: UTC+0
   place: TBD
   date: TBD
@@ -144,46 +127,6 @@
   date: TBD
   sub: [ ARCH, TBD ]
 
-- title: IISWC
-  year: 2025
-  id: IISWC25
-  link: https://iiswc.org/iiswc2025/cfp.html
-  deadline: "2025-06-03 23:59:59"
-  timezone: UTC-12
-  place: TBD
-  date: TBD
-  sub: [ ARCH, TBD ]
-
-- title: ICCD
-  year: 2025
-  id: ICCD25
-  link: https://www.iccd-conf.com/Call_for_papers.html
-  deadline: "2025-05-12 23:59:59"
-  timezone: UTC-12
-  place: TBD
-  date: TBD
-  sub: [ ARCH, TBD ]
-
-- title: Middleware (Summer)
-  year: 2025
-  id: Middleware25Summer
-  link: https://middleware-conf.github.io/2026/calls/call-for-research-papers/
-  deadline: "2025-05-24 23:59:59"
-  timezone: UTC-12
-  place: TBD
-  date: TBD
-  sub: [ SYS, TBD ]
-
-- title: SoCC
-  year: 2025
-  id: SoCC25
-  link: https://www.ieee-socc.org/
-  deadline: "2025-05-06 23:59:59"
-  timezone: UTC-4
-  place: TBD
-  date: TBD
-  sub: [ SYS, TBD ]
-
 - title: NSDI (Spring)
   year: 2026
   id: NSDI26spring
@@ -202,7 +145,7 @@
   timezone: UTC-4
   place: TBD
   date: TBD
-  sub: [ SYS ]
+  sub: [ SYS, TBD ]
 
 - title: EuroSys (Spring)
   year: 2026
@@ -232,7 +175,7 @@
   timezone: UTC-12
   place: TBD
   date: TBD
-  sub: [ ARCH, SYS, TBD ]
+  sub: [ ARCH, SYS ]
 
 - title: ASPLOS (Summer)
   year: 2026
@@ -242,7 +185,7 @@
   timezone: UTC-12
   place: TBD
   date: TBD
-  sub: [ ARCH, SYS, TBD ]
+  sub: [ ARCH, SYS ]
 
 - title: ASPLOS (Fall)
   year: 2026
@@ -252,4 +195,4 @@
   timezone: UTC-12
   place: TBD
   date: TBD
-  sub: [ ARCH, SYS, TBD ]
+  sub: [ ARCH, SYS ]
