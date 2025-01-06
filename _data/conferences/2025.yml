@@ -74,10 +74,8 @@
   deadline: "2024-12-10 17:59:59"
   timezone: UTC-5
   place: Boston, MA, USA
-  date: July 7–9, 2025
-  start: 2025-07-07
-  end: 2025-07-09
-  sub: SYS
+  date: July 7 – 9, 2025
+  sub: [ SYS ]
 
 - title: ATC
   year: 2025
@@ -86,10 +84,8 @@
   deadline: "2025-01-14 23:59:59"
   timezone: UTC+0
   place: Boston, MA, USA
-  date: July 7–9, 2025
-  start: 2025-07-07
-  end: 2025-07-09
-  sub: SYS
+  date: July 7 – 9, 2025
+  sub: [ SYS ]
 
 - title: FAST
   year: 2025
@@ -98,10 +94,8 @@
   deadline: "2024-09-17 23:59:59"
   timezone: UTC-7
   place: Santa Clara, CA, USA
-  date: February 25-27, 2025
-  start: 2025-02-25
-  end: 2025-02-27
-  sub: SYS
+  date: February 25 - 27, 2025
+  sub: [ SYS ]
 
 - title: ISCA
   year: 2025
@@ -110,10 +104,8 @@
   deadline: "2024-11-22 23:59:59"
   timezone: UTC-12
   place: Tokyo, Japan
-  date: June 21–25, 2025
-  start: 2025-06-21
-  end: 2025-06-25
-  sub: ARCH
+  date: June 21 – 25, 2025
+  sub: [ ARCH ]
 
 - title: HPCA
   year: 2025
@@ -123,7 +115,7 @@
   timezone: UTC-7
   place: Las Vegas, NV, USA
   date: March 1 - 5, 2025
-  sub: ARCH
+  sub: [ ARCH ]
 
 - title: DATE
   year: 2025
@@ -132,10 +124,8 @@
   deadline: "2024-09-15 23:59:59"
   timezone: UTC-12
   place: Lyon, France
-  date: 31 March-2 April 2025
-  start: 2025-03-31
-  end: 2025-04-02
-  sub: ARCH
+  date: 31 March - 2 April 2025
+  sub: [ ARCH ]
 
 - title: NSDI (Spring)
   year: 2025
@@ -145,9 +135,7 @@
   timezone: UTC-4
   place: Philadelphia, PA, USA
   date: April 28–30, 2025
-  start: 2025-04-28
-  end: 2025-04-30
-  sub: SYS
+  sub: [ SYS ]
 
 - title: NSDI (Fall)
   year: 2025
@@ -156,10 +144,8 @@
   deadline: "2024-09-19 23:59:59"
   timezone: UTC-4
   place: Philadelphia, PA, USA
-  date: October 20-22, 2025
-  start: 2025-10-20
-  end: 2025-10-22
-  sub: SYS
+  date: April 28–30, 2025
+  sub: [ SYS ]
 
 - title: EuroSys (Spring)
   year: 2025
@@ -169,9 +155,7 @@
   timezone: UTC-12
   place: Rotterdam, Netherlands
   date: March 30 - April 3, 2025
-  start: 2025-03-30
-  end: 2025-04-03
-  sub: SYS
+  sub: [ SYS ]
 
 - title: EuroSys (Fall)
   year: 2025
@@ -181,7 +165,7 @@
   timezone: UTC-12
   place: Rotterdam, Netherlands
   date: March 30 - April 3, 2025
-  sub: SYS
+  sub: [ SYS ]
 
 - title: ASPLOS (Spring)
   year: 2025
@@ -190,10 +174,8 @@
   deadline: '2024-03-01 23:59:59'
   timezone: UTC-12
   place: Rotterdam, Netherlands
-  date: March 30 - April 3, 2025
-  start: 2025-03-30
-  end: 2025-04-03
-  sub: ARCH,SYS
+  date: March-April, 2024
+  sub: [ ARCH, SYS ]
 
 - title: ASPLOS (Summer)
   year: 2025
@@ -202,8 +184,8 @@
   deadline: '2024-06-24 23:59:59'
   timezone: UTC-12
   place: Rotterdam, Netherlands
-  date: March 30 - April 3, 2025
-  sub: ARCH,SYS
+  date: March-April, 2024
+  sub: [ ARCH, SYS ]
 
 - title: ASPLOS (Fall)
   year: 2025
@@ -212,8 +194,8 @@
   deadline: '2024-10-18 23:59:59'
   timezone: UTC-12
   place: Rotterdam, Netherlands
-  date: March 30 - April 3, 2025
-  sub: ARCH,SYS
+  date: March-April, 2024
+  sub: [ ARCH, SYS ]
 
 - title: IISWC
   year: 2025
@@ -223,7 +205,7 @@
   timezone: UTC-12
   place: TBD
   date: TBD
-  sub: ARCH,TBD
+  sub: [ ARCH, TBD ]
 
 - title: ICCD
   year: 2025
@@ -233,7 +215,7 @@
   timezone: UTC-12
   place: TBD
   date: TBD
-  sub: ARCH,TBD
+  sub: [ ARCH, TBD ]
 
 - title: Middleware (Summer)
   year: 2025
@@ -243,7 +225,7 @@
   timezone: UTC-12
   place: TBD
   date: TBD
-  sub: SYS,TBD
+  sub: [ SYS, TBD ]
 
 - title: SoCC
   year: 2025
@@ -253,7 +235,7 @@
   timezone: UTC-4
   place: TBD
   date: TBD
-  sub: SYS,TBD
+  sub: [ SYS, TBD ]
 
 - title: ISMM
   year: 2025
@@ -262,10 +244,8 @@
   deadline: '2025-03-11 23:59:59'
   timezone: UTC-12
   place: Seoul, South Korea
-  date: June 17, 2025
-  start: 2025-06-17
-  end: 2025-06-17
-  sub: ARCH,SYS
+  date: June 17, 2025  
+  sub: [ ARCH, SYS ]
 
 - title: MICRO
   year: 2025
@@ -275,7 +255,7 @@
   timezone: UTC-5
   place: TBD
   date: TBD
-  sub: ARCH,SYS,TBD
+  sub: [ ARCH, SYS, TBD ]
 
 - title: PACT
   year: 2025
@@ -285,7 +265,7 @@
   timezone: UTC-12
   place: TBD
   date: TBD
-  sub: ARCH,TBD
+  sub: [ ARCH, TBD ]
 
 - title: DAC
   year: 2025
@@ -295,7 +275,7 @@
   timezone: PST
   place: TBD
   date: TBD
-  sub: ARCH,TBD
+  sub: [ ARCH, TBD ]
 
 - title: SIGMOD
   year: 2025
@@ -305,9 +285,7 @@
   timezone: PST
   place: Berlin, Germany
   date: June 22 - 27, 2025
-  start: 2025-06-22
-  end: 2025-06-27
-  sub: OTHER
+  sub: [ OTHER ]
 
 # - title: VLDB (every month)
 #   year: 2025
@@ -327,7 +305,7 @@
   timezone: PST
   place: TBD
   date: TBD
-  sub: ML,TBD
+  sub: [ ML, TBD ]
 
 - title: CVPR
   year: 2025
@@ -337,7 +315,7 @@
   timezone: UTC
   place: TBD
   date: TBD
-  sub: ML,TBD
+  sub: [ ML, TBD ]
 
 - title: ICLR
   year: 2025
@@ -347,9 +325,7 @@
   timezone: AoE
   place: Singapore
   date: April 24-28, 2025
-  start: 2025-04-24
-  end: 2025-04-28
-  sub: ML
+  sub: [ ML ]
 
 - title: ICML
   year: 2025
@@ -359,9 +335,7 @@
   timezone: AoE
   place: Vancouver, Canada
   date: July 13-19, 2025
-  start: 2025-07-13
-  end: 2025-07-19
-  sub: ML
+  sub: [ ML ]
 
 - title: MLSys
   year: 2025
@@ -371,6 +345,4 @@
   timezone: UTC
   place: Santa Clara, CA, USA
   date: May 12-15, 2025
-  start: 2025-05-12
-  end: 2025-05-15
-  sub: ML,ARCH,SYS
+  sub: [ ML, ARCH, SYS ]

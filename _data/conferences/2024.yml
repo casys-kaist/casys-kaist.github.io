@@ -89,7 +89,7 @@
   timezone: UTC-12
   place: Milan, Italy
   date: November, 2024
-  sub: ARCH
+  sub: [ ARCH ]
 
 - title: Middleware (Summer)
   year: 2024
@@ -99,9 +99,7 @@
   timezone: UTC-12
   place: Hong Kong, China
   date: December 02-04, 2024
-  start: 2024-12-02
-  end: 2024-12-04
-  sub: SYS
+  sub: [ SYS ]
 
 - title: SoCC
   year: 2024
@@ -111,9 +109,7 @@
   timezone: UTC-4
   place: Dresden, Germany
   date: September 16-19, 2024
-  start: 2024-09-16
-  end: 2024-09-19
-  sub: SYS,ARCH
+  sub: [ SYS, ARCH ]
 
 - title: ISMM
   year: 2024
@@ -123,9 +119,7 @@
   timezone: UTC-12
   place: Copenhagen, Denmark
   date: June, 25, 2024
-  start: 2024-06-25
-  end: 2024-06-25
-  sub: ARCH,SYS
+  sub: [ ARCH, SYS ]
 
 - title: MICRO
   year: 2024
@@ -135,9 +129,7 @@
   timezone: UTC-5
   place: Austin, Texas, USA
   date: November, 2-6, 2024
-  start: 2024-11-02
-  end: 2024-11-06
-  sub: ARCH,SYS
+  sub: [ ARCH, SYS ]
 
 - title: PACT
   year: 2024
@@ -147,9 +139,7 @@
   timezone: UTC-12
   place: Long Beach, CA, USA
   date: October, 13-16, 2024
-  start: 2024-10-13
-  end: 2024-10-16
-  sub: ARCH
+  sub: [ ARCH ]
 
 - title: DAC
   year: 2024
@@ -159,9 +149,7 @@
   timezone: PST
   place: San Francisco, CA
   date: June 23-27, 2024
-  start: 2024-06-23
-  end: 2024-06-27
-  sub: ARCH
+  sub: [ ARCH ]
 
 - title: SIGMOD
   year: 2024
@@ -171,9 +159,7 @@
   timezone: PST
   place: Santiago, Chile
   date: June 9-15, 2024
-  start: 2024-06-09
-  end: 2024-06-15
-  sub: OTHER
+  sub: [ OTHER ]
 
 - title: VLDB (every month)
   year: 2024
@@ -183,9 +169,7 @@
   timezone: PST
   place: Guangzhou, China (Hybrid)
   date: August 25-29, 2024
-  start: 2024-08-25
-  end: 2024-08-29
-  sub: OTHER
+  sub: [ OTHER ]
 
 - title: ECCV
   year: 2024
@@ -195,9 +179,7 @@
   timezone: PST
   place: Milano, Italy
   date: September 29-October 04, 2024
-  start: 2024-09-29
-  end: 2024-10-04
-  sub: ML
+  sub: [ ML ]
 
 - title: CVPR
   year: 2024
@@ -207,9 +189,7 @@
   timezone: UTC
   place: Seattle WA, USA
   date: June 19-21, 2024
-  start: 2024-06-19
-  end: 2024-06-21
-  sub: ML
+  sub: [ ML ]
 
 - title: ICLR
   year: 2024
@@ -219,9 +199,7 @@
   timezone: AoE
   place: Vienna, Austria
   date: May 7-11, 2024
-  start: 2024-05-07
-  end: 2024-05-11
-  sub: ML
+  sub: [ ML ]
 
 - title: ICML
   year: 2024
@@ -231,9 +209,7 @@
   timezone: AoE
   place: Vienna, Austria
   date: July 21-27, 2024
-  start: 2024-07-21
-  end: 2024-07-27
-  sub: ML
+  sub: [ ML ]
 
 - title: ATC
   year: 2024
@@ -243,8 +219,6 @@
   timezone: UTC
   place: Santa Clara, CA, USA
   date: July 10-12, 2024
-  start: 2024-07-10
-  end: 2024-07-12
   sub: [ SYS ]
 
 - title: ISCA
@@ -255,9 +229,7 @@
   timezone: UTC-12
   place: Buenos Aires, Argentina
   date: June 29-July 3, 2024
-  start: 2024-06-29
-  end: 2024-07-03
-  sub: ARCH
+  sub: [ ARCH ]
 
 - title: EuroSys (Spring)
   year: 2024
@@ -267,9 +239,7 @@
   timezone: UTC+0
   place: Athens, Greece
   date: April, 23-26, 2024
-  start: 2024-04-23
-  end: 2024-04-26
-  sub: SYS
+  sub: [ SYS ]
 
 - title: EuroSys (Fall)
   year: 2024
@@ -279,9 +249,7 @@
   timezone: UTC+0
   place: Athens, Greece
   date: April, 23-26, 2024
-  start: 2024-04-23
-  end: 2024-04-26
-  sub: SYS
+  sub: [ SYS ]
 
 - title: OSDI
   year: 2024
@@ -291,7 +259,7 @@
   timezone: EST
   place: TBD
   date: TBD
-  sub: TBD,SYS
+  sub: [ TBD, SYS ]
 
 - title: MLSys
   year: 2024
@@ -301,9 +269,7 @@
   timezone: UTC
   place: Santa Clara, CA, USA
   date: May, 13-16, 2024
-  start: 2024-05-13
-  end: 2024-05-16
-  sub: ARCH,SYS
+  sub: [ ARCH, SYS ]
 
 - title: DATE
   year: 2024
@@ -323,7 +289,7 @@
   timezone: UTC-4
   place: San Diego, CA, USA
   date: April, 2024
-  sub: ARCH,SYS
+  sub: [ ARCH, SYS ]
 
 - title: HPCA
   year: 2024
@@ -333,9 +299,7 @@
   timezone: UTC
   place: Edinburgh, United Kingdom
   date: March, 2-6, 2024
-  start: 2024-03-02
-  end: 2024-03-06
-  sub: ARCH
+  sub: [ TBD, ARCH ]
 
 - title: ASPLOS (Summer)
   year: 2024
@@ -345,7 +309,7 @@
   timezone: UTC-4
   place: San Diego, CA, USA
   date: April, 2024
-  sub: ARCH,SYS
+  sub: [ ARCH, SYS ]
 
 - title: ASPLOS (Fall)
   year: 2024
