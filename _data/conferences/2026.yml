@@ -75,7 +75,7 @@
   timezone: UTC-5
   place: TBD
   date: TBD
-  sub: [ SYS, TBD ]
+  sub: SYS,TBD
 
 - title: ATC
   year: 2026
@@ -85,7 +85,7 @@
   timezone: UTC+0
   place: TBD
   date: TBD
-  sub: [ SYS, TBD ]
+  sub: SYS,TBD
 
 - title: FAST
   year: 2026
@@ -95,7 +95,7 @@
   timezone: UTC-7
   place: TBD
   date: TBD
-  sub: [ SYS, TBD ]
+  sub: SYS,TBD
 
 - title: ISCA
   year: 2026
@@ -105,7 +105,7 @@
   timezone: UTC-12
   place: TBD
   date: TBD
-  sub: [ ARCH, TBD ]
+  sub: ARCH,TBD
 
 - title: HPCA
   year: 2026
@@ -115,7 +115,7 @@
   timezone: UTC-7
   place: TBD
   date: TBD
-  sub: [ ARCH, TBD ]
+  sub: ARCH,TBD
 
 - title: DATE
   year: 2026
@@ -125,7 +125,7 @@
   timezone: UTC-12
   place: TBD
   date: TBD
-  sub: [ ARCH, TBD ]
+  sub: ARCH,TBD
 
 - title: NSDI (Spring)
   year: 2026
@@ -135,7 +135,7 @@
   timezone: UTC-4
   place: TBD
   date: TBD
-  sub: [ SYS, TBD ]
+  sub: SYS,TBD
 
 - title: NSDI (Fall)
   year: 2026
@@ -145,7 +145,7 @@
   timezone: UTC-4
   place: TBD
   date: TBD
-  sub: [ SYS, TBD ]
+  sub: SYS,TBD
 
 - title: EuroSys (Spring)
   year: 2026
@@ -155,7 +155,7 @@
   timezone: UTC-12
   place: TBD
   date: TBD
-  sub: [ SYS, TBD ]
+  sub: SYS,TBD
 
 - title: EuroSys (Fall)
   year: 2026
@@ -165,7 +165,7 @@
   timezone: UTC-12
   place: TBD
   date: TBD
-  sub: [ SYS, TBD ]
+  sub: SYS,TBD
 
 - title: ASPLOS (Spring)
   year: 2026
@@ -175,7 +175,7 @@
   timezone: UTC-12
   place: TBD
   date: TBD
-  sub: [ ARCH, SYS, TBD ]
+  sub: ARCH,SYS,TBD
 
 - title: ASPLOS (Summer)
   year: 2026
@@ -185,7 +185,7 @@
   timezone: UTC-12
   place: TBD
   date: TBD
-  sub: [ ARCH, SYS, TBD ]
+  sub: ARCH,SYS,TBD
 
 - title: ASPLOS (Fall)
   year: 2026
@@ -195,4 +195,4 @@
   timezone: UTC-12
   place: TBD
   date: TBD
-  sub: [ ARCH, SYS, TBD ]
+  sub: ARCH,SYS,TBD
