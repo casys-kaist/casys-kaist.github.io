@@ -37,9 +37,9 @@
 # [-] Middleware
 
 # [Arch-System]
-# [-] MLSYS
+# [x] MLSYS
 # [x] ASPLOS
-# [-] SIGMOD
+# [x] SIGMOD
 # [#] VLDB # montly, add if needed
 
 # [Arch]
@@ -63,8 +63,8 @@
 # [ML]
 # [-] ECCV
 # [-] CVPR
-# [-] ICLR
-# [-] ICML
+# [x] ICLR
+# [x] ICML
 # [ ] NeurIPS
 
 - title: OSDI
@@ -283,9 +283,9 @@
   link: https://2025.sigmod.org/
   deadline: '2024-10-15 23:59:59'
   timezone: PST
-  place: TBD
-  date: TBD
-  sub: [ OTHER, TBD ]
+  place: Berlin, Germany
+  date: June 22 - 27, 2025
+  sub: [ OTHER ]
 
 # - title: VLDB (every month)
 #   year: 2025
@@ -297,7 +297,7 @@
 #   date: TBD
 #   sub: [ OTHER ]
 
-# - title: ECCV
+- title: ECCV
   year: 2025
   id: eccv25
   link: https://eccv2025.ecva.net/
@@ -321,28 +321,28 @@
   year: 2025
   id: iclr25
   link: https://iclr.cc/
-  deadline: '2025-02-28 23:59:59'
+  deadline: '2024-10-01 23:59:59'
   timezone: AoE
-  place: TBD
-  date: TBD
-  sub: [ ML, TBD ]
+  place: Singapore
+  date: April 24-28, 2025
+  sub: [ ML ]
 
 - title: ICML
   year: 2025
   id: icml25
   link: https://icml.cc/
-  deadline: '2025-02-01 23:59:59'
+  deadline: '2025-01-30 23:59:59'
   timezone: AoE
-  place: TBD
-  date: TBD
-  sub: [ ML, TBD ]
+  place: Vancouver, Canada
+  date: July 13-19, 2025
+  sub: [ ML ]
 
 - title: MLSys
   year: 2025
   id: mlsys25
   link: https://mlsys.org/
-  deadline: '2024-10-27 20:00:00'
+  deadline: '2024-10-31 20:00:00'
   timezone: UTC
-  place: TBD
-  date: TBD
-  sub: [ ML, TBD ]
+  place: Santa Clara, CA, USA
+  date: May 12-15, 2025
+  sub: [ ML, ARCH, SYS ]

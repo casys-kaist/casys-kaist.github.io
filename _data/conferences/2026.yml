@@ -175,7 +175,7 @@
   timezone: UTC-12
   place: TBD
   date: TBD
-  sub: [ ARCH, SYS ]
+  sub: [ ARCH, SYS, TBD ]
 
 - title: ASPLOS (Summer)
   year: 2026
@@ -185,7 +185,7 @@
   timezone: UTC-12
   place: TBD
   date: TBD
-  sub: [ ARCH, SYS ]
+  sub: [ ARCH, SYS, TBD ]
 
 - title: ASPLOS (Fall)
   year: 2026
@@ -195,4 +195,4 @@
   timezone: UTC-12
   place: TBD
   date: TBD
-  sub: [ ARCH, SYS ]
+  sub: [ ARCH, SYS, TBD ]
