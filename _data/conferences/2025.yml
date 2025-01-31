@@ -317,15 +317,17 @@
   end: 2025-06-27
   sub: [ OTHER ]
 
-# - title: VLDB (every month)
-#   year: 2025
-#   id: vldb25
-#   link: https://vldb.org/2025/
-#   deadline: '2025-01-01 16:59:59'
-#   timezone: PST
-#   place: TBD
-#   date: TBD
-#   sub: [ OTHER ]
+- title: VLDB (every month)
+  year: 2025
+  id: vldb25
+  link: https://vldb.org/2025
+  deadline: '2025-03-01 16:59:59'
+  timezone: PST
+  place: London, United Kingdom
+  date: September 1-5, 2025
+  start: 2025-09-01
+  end: 2025-09-05
+  sub: [ OTHER ]
 
 - title: ECCV
   year: 2025
