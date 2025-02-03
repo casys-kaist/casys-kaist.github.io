@@ -38,7 +38,7 @@
 
 # [Arch-System]
 # [ ] MLSYS
-# [-] ASPLOS
+# [x] ASPLOS
 # [ ] SIGMOD
 # [#] VLDB # montly, add if needed
 
@@ -171,28 +171,19 @@
   year: 2026
   id: asplos26spring
   link: https://www.asplos-conference.org/asplos2026/cfp/
-  deadline: '2025-03-01 23:59:59'
-  timezone: UTC-12
+  deadline: '2025-03-12 23:59:59'
+  timezone: UTC-5
   place: TBD
   date: TBD
-  sub: [ ARCH, SYS, TBD ]
+  sub: [ ARCH, SYS ]
 
 - title: ASPLOS (Summer)
   year: 2026
   id: asplos26summer
   link: https://www.asplos-conference.org/asplos2026/cfp/
-  deadline: '2025-06-24 23:59:59'
-  timezone: UTC-12
+  deadline: '2025-08-20 23:59:59'
+  timezone: UTC-5
   place: TBD
   date: TBD
-  sub: [ ARCH, SYS, TBD ]
+  sub: [ ARCH, SYS ]
 
-- title: ASPLOS (Fall)
-  year: 2026
-  id: asplos26fall
-  link: https://www.asplos-conference.org/asplos2026/cfp/
-  deadline: '2025-10-18 23:59:59'
-  timezone: UTC-12
-  place: TBD
-  date: TBD
-  sub: [ ARCH, SYS, TBD ]
