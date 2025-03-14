@@ -65,7 +65,7 @@
 # [-] CVPR
 # [x] ICLR
 # [x] ICML
-# [ ] NeurIPS
+# [x] NeurIPS
 
 - title: OSDI
   year: 2025
@@ -100,7 +100,7 @@
   place: Santa Clara, CA, USA
   date: February 25–27, 2025
   start: 2025-02-25
-  end: 2025-02-27 
+  end: 2025-02-27
   sub: [ SYS ]
 
 - title: ISCA
@@ -289,11 +289,11 @@
   year: 2025
   id: pact25
   link: https://pact2025.github.io/
-  deadline: '2025-04-01 23:59:59'
+  deadline: '2025-04-18 23:59:59'
   timezone: UTC-12
-  place: TBD
-  date: TBD
-  sub: [ ARCH, TBD ]
+  place: Irvine, California, USA
+  date: November 3-6, 2025
+  sub: [ ARCH ]
 
 - title: DAC
   year: 2025
@@ -389,4 +389,13 @@
   date: June 21, 2025
   sub: [ ML, ARCH, SYS ]
 
+- title: NeurIPS
+  year: 2025
+  id: neurips25
+  link: https://neurips.cc/Conferences/2025
+  deadline: '2025-05-01 23:59:59'
+  timezone: UTC
+  place: San Diego, CA, USA
+  date: Decemer 9-15, 2025
+  sub: [ ML, TBD ]
 
