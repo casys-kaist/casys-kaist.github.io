@@ -229,9 +229,11 @@
   link: https://iiswc.org/iiswc2025/cfp.html
   deadline: "2025-06-21 23:59:59"
   timezone: UTC-12
-  place: TBD
-  date: TBD
-  sub: [ ARCH, TBD ]
+  place: Irvine, CA, USA
+  date: October 12-14, 2025
+  start: 2025-10-12
+  end: 2025-10-14
+  sub: [ SYS ]
 
 - title: ICCD
   year: 2025
@@ -281,9 +283,11 @@
   link: https://microarch.org/micro58/index.php
   deadline: '2025-04-11 23:59:59'
   timezone: UTC-5
-  place: TBD
-  date: TBD
-  sub: [ ARCH, SYS, TBD ]
+  place: Seoul, Korea
+  date: October 18-22, 2025
+  start: 2025-10-18
+  end: 2025-10-22
+  sub: [ ARCH, SYS ]
 
 - title: PACT
   year: 2025
