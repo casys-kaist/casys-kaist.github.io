@@ -191,3 +191,22 @@
   date: TBD
   sub: [ ARCH, SYS ]
 
+- title: MLSys
+  year: 2026
+  id: mlsys26
+  link: https://mlsys.org/
+  deadline: '2025-10-31 19:59:59'
+  timezone: UTC-0
+  place: TBD
+  date: TBD
+  sub: [ ARCH, SYS ]
+
+- title: ISCA
+  year: 2026
+  id: isca26
+  link: https://iscaconf.org/isca2026
+  deadline: '2025-11-22 23:59:59'
+  timezone: UTC+12
+  place: TBD
+  date: TBD
+  sub: [ ARCH, SYS ]
