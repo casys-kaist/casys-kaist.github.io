@@ -111,8 +111,8 @@
   year: 2026
   id: hpca26
   link: https://hpca-conf.org/2026/
-  deadline: "2025-08-02 23:59:59"
-  timezone: UTC-7
+  deadline: "2025-08-01 19:59:59"
+  timezone: UTC-4
   place: TBD
   date: TBD
   sub: [ ARCH, TBD ]
