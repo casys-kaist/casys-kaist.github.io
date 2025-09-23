@@ -37,14 +37,14 @@
 # [ ] Middleware
 
 # [Arch-System]
-# [ ] MLSYS
+# [x] MLSYS
 # [x] ASPLOS
 # [ ] SIGMOD
 # [#] VLDB # montly, add if needed
 
 # [Arch]
-# [-] ISCA
-# [-] HPCA
+# [x] ISCA
+# [x] HPCA
 # [ ] MICRO
 # [ ] ICS
 # [ ] ICCD
@@ -53,7 +53,7 @@
 # [ ] SC
 # [ ] PACT
 # [ ] ISMM
-# [ ] DAC
+# [-] DAC
 # [-] DATE
 # [ ] CAL
 # [ ] FPGA
@@ -101,11 +101,11 @@
   year: 2026
   id: isca26
   link: https://www.iscaconf.org/isca2026/submit/papers.php
-  deadline: "2025-11-22 23:59:59"
+  deadline: "2025-11-17 23:59:59"
   timezone: UTC-12
-  place: TBD
-  date: TBD
-  sub: [ ARCH, TBD ]
+  place: Raleigh, NC
+  date: June 27 - July 1, 2026
+  sub: [ ARCH ]
 
 - title: HPCA
   year: 2026
@@ -177,8 +177,8 @@
   link: https://www.asplos-conference.org/asplos2026/cfp/
   deadline: '2025-03-12 23:59:59'
   timezone: UTC-5
-  place: TBD
-  date: TBD
+  place: Pittsburgh, USA
+  date: March 22-26, 2026.
   sub: [ ARCH, SYS ]
 
 - title: ASPLOS (Summer)
@@ -187,16 +187,26 @@
   link: https://www.asplos-conference.org/asplos2026/cfp/
   deadline: '2025-08-20 23:59:59'
   timezone: UTC-5
-  place: TBD
-  date: TBD
+  place: Pittsburgh, USA
+  date: March 22-26, 2026.
   sub: [ ARCH, SYS ]
 
 - title: MLSys
   year: 2026
   id: mlsys26
   link: https://mlsys.org/
-  deadline: '2025-10-31 19:59:59'
-  timezone: UTC-0
-  place: TBD
-  date: TBD
+  deadline: '2025-10-30 12:59:59'
+  timezone: UTC-7
+  place: Bellevue, WA
+  date: May 17th - 22nd, 2026
   sub: [ ARCH, SYS ]
+
+- title: DAC
+  year: 2026
+  id: dac26
+  link: https://www.dac.com/Conference/2025-Call-for-Contributions
+  deadline: '2024-11-20 16:59:59'
+  timezone: UTC-7
+  place: Long Beach, California
+  date: July 25 - 29, 2026
+  sub: [ ARCH, SYS, TBD ]
