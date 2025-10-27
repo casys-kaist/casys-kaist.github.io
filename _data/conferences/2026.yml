@@ -213,10 +213,10 @@
   year: 2026
   id: dac26
   link: https://www.dac.com/Conference/2025-Call-for-Contributions
-  deadline: '2024-11-20 16:59:59'
+  deadline: '2025-11-18 16:59:59'
   timezone: UTC-7
-  place: Long Beach, California
+  place: Long Beach, CA, USA
   date: July 25 - 29, 2026
   start: 2026-07-25
   end: 2026-07-29
-  sub: [ ARCH, SYS, TBD ]
+  sub: [ ARCH, SYS ]

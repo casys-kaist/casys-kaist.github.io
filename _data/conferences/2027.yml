@@ -1,0 +1,208 @@
+---
+
+# Make sure it has the title, year, id, link, deadline, timezone, date, place, sub attributes
+
+# - title: BestConf
+#   year: 2022
+#   id: bestconf22  # title as lower case + last two digits of year
+#   full_name: Best Conference for Anything  # full conference name
+#   link: link-to-website.com
+#   deadline: YYYY-MM-DD HH:SS
+#   abstract_deadline: YYYY-MM-DD HH:SS
+#   timezone: Asia/Seoul
+#   place: Incheon, South Korea
+#   date: September, 18-22, 2022
+#   start: YYYY-MM-DD
+#   end: YYYY-MM-DD
+#   paperslink: link-to-full-paper-list.com
+#   pwclink: link-to-papers-with-code.com
+#   hindex: 100.0
+#   sub: SP
+#   note: Important
+
+# 2027
+# [x] denotes conference with CFP available
+# [-] denotes conference with CFP not available (should have TBD tag)
+# [ ] denotes conference is not updated on this list
+
+# [System]
+# [ ] SOSP
+# [-] OSDI
+# [-] ATC
+# [-] EuroSys
+# [ ] EMSOFT
+# [-] NSDI
+# [-] FAST
+# [ ] SoCC
+# [ ] Middleware
+
+# [Arch-System]
+# [-] MLSYS
+# [-] ASPLOS
+# [ ] SIGMOD
+# [#] VLDB # montly, add if needed
+
+# [Arch]
+# [-] ISCA
+# [-] HPCA
+# [ ] MICRO
+# [ ] ICS
+# [ ] ICCD
+# [ ] ISPASS
+# [ ] IISWC
+# [ ] SC
+# [ ] PACT
+# [ ] ISMM
+# [-] DAC
+# [-] DATE
+# [ ] CAL
+# [ ] FPGA
+# [ ] FCCM
+# [ ] IPDPS
+
+# [ML]
+# [ ] ECCV
+# [ ] CVPR
+# [ ] ICLR
+# [ ] ICML
+# [ ] NeurIPS
+
+- title: OSDI
+  year: 2027
+  id: osdi27
+  link: https://www.usenix.org/conference/osdi27
+  deadline: "2026-12-11 17:59:59"
+  timezone: UTC-5
+  place: TBD
+  date: TBD
+  sub: [ SYS, TBD ]
+
+# - title: ATC
+#   year: 2027
+#   id: atc27
+#   link: https://www.usenix.org/conference/atc27
+#   deadline: "2027-01-14 23:59:59"
+#   timezone: UTC+0
+#   place: TBD
+#   date: TBD
+#   sub: [ SYS, TBD ]
+
+- title: FAST
+  year: 2027
+  id: fast27
+  link: https://www.usenix.org/conference/fast27
+  deadline: "2026-09-17 23:59:59"
+  timezone: UTC-7
+  place: TBD
+  date: TBD
+  sub: [ SYS, TBD ]
+
+- title: ISCA
+  year: 2027
+  id: isca27
+  link: https://www.iscaconf.org/isca2027/submit/papers.php
+  deadline: "2026-11-17 23:59:59"
+  timezone: UTC-12
+  place: TBD
+  date: TBD
+  sub: [ ARCH, TBD ]
+
+- title: HPCA
+  year: 2027
+  id: hpca27
+  link: https://hpca-conf.org/2027/
+  deadline: "2026-08-01 19:59:59"
+  timezone: UTC-4
+  place: TBD
+  date: TBD
+  sub: [ ARCH, SYS, TBD ]
+
+- title: DATE
+  year: 2027
+  id: DATE27
+  link: https://www.date-conference.com/date-2027-call-papers
+  deadline: "2026-09-15 23:59:59"
+  timezone: UTC-12
+  place: TBD
+  date: TBD
+  sub: [ ARCH, TBD ]
+
+- title: NSDI (Spring)
+  year: 2027
+  id: NSDI27spring
+  link: https://www.usenix.org/conference/nsdi27/call-for-papers
+  deadline: "2026-05-07 23:59:59"
+  timezone: UTC-4
+  place: TBD
+  date: TBD
+  sub: [ SYS, TBD ]
+
+- title: NSDI (Fall)
+  year: 2027
+  id: NSDI27fall
+  link: https://www.usenix.org/conference/nsdi27/call-for-papers
+  deadline: "2026-09-19 23:59:59"
+  timezone: UTC-4
+  place: TBD
+  date: TBD
+  sub: [ SYS, TBD ]
+
+- title: EuroSys (Spring)
+  year: 2027
+  id: eurosys27spring
+  link: https://2027.eurosys.org/cfp.html
+  deadline: '2026-05-15 23:59:59'
+  timezone: UTC-12
+  place: TBD
+  date: TBD
+  sub: [ SYS, TBD ]
+
+- title: EuroSys (Fall)
+  year: 2027
+  id: eurosys27fall
+  link: https://2027.eurosys.org/cfp.html
+  deadline: '2026-09-25 23:59:59'
+  timezone: UTC-12
+  place: TBD
+  date: TBD
+  sub: [ SYS, TBD ]
+
+- title: ASPLOS (Spring)
+  year: 2027
+  id: asplos27spring
+  link: https://www.asplos-conference.org/asplos2027/cfp/
+  deadline: '2026-03-12 23:59:59'
+  timezone: UTC-5
+  place: TBD
+  date: TBD
+  sub: [ ARCH, SYS, TBD ]
+
+- title: ASPLOS (Summer)
+  year: 2027
+  id: asplos27summer
+  link: https://www.asplos-conference.org/asplos2027/cfp/
+  deadline: '2026-08-20 23:59:59'
+  timezone: UTC-5
+  place: TBD
+  date: TBD
+  sub: [ ARCH, SYS, TBD ]
+
+- title: MLSys
+  year: 2027
+  id: mlsys27
+  link: https://mlsys.org/
+  deadline: '2026-10-30 12:59:59'
+  timezone: UTC-7
+  place: TBD
+  date: TBD
+  sub: [ ARCH, SYS, TBD ]
+
+- title: DAC
+  year: 2027
+  id: dac27
+  link: https://www.dac.com/Conference/2026-Call-for-Contributions
+  deadline: '2026-11-18 16:59:59'
+  timezone: UTC-7
+  place: TBD
+  date: TBD
+  sub: [ ARCH, SYS, TBD ]
