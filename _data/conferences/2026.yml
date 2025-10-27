@@ -71,21 +71,23 @@
   year: 2026
   id: osdi26
   link: https://www.usenix.org/conference/osdi26
-  deadline: "2025-12-10 17:59:59"
+  deadline: "2025-12-11 17:59:59"
   timezone: UTC-5
-  place: TBD
-  date: TBD
-  sub: [ SYS, TBD ]
+  place: Seattle, WA, USA
+  date: July 13 – 15, 2026
+  start: 2026-07-13
+  end: 2026-07-15
+  sub: [ SYS ]
 
-- title: ATC
-  year: 2026
-  id: atc26
-  link: https://www.usenix.org/conference/atc26
-  deadline: "2026-01-14 23:59:59"
-  timezone: UTC+0
-  place: TBD
-  date: TBD
-  sub: [ SYS, TBD ]
+# - title: ATC
+#   year: 2026
+#   id: atc26
+#   link: https://www.usenix.org/conference/atc26
+#   deadline: "2026-01-14 23:59:59"
+#   timezone: UTC+0
+#   place: TBD
+#   date: TBD
+#   sub: [ SYS, TBD ]
 
 - title: FAST
   year: 2026
@@ -105,6 +107,8 @@
   timezone: UTC-12
   place: Raleigh, NC
   date: June 27 - July 1, 2026
+  start: 2026-06-27
+  end: 2026-07-01
   sub: [ ARCH ]
 
 - title: HPCA
@@ -115,6 +119,8 @@
   timezone: UTC-4
   place: Sydney, NSW, Australia
   date: Feb. 25 – Mar. 01 2026
+  start: 2026-02-25
+  end: 2026-03-01
   sub: [ ARCH, SYS ]
 
 - title: DATE
@@ -199,6 +205,8 @@
   timezone: UTC-7
   place: Bellevue, WA
   date: May 17th - 22nd, 2026
+  start: 2026-05-17
+  end: 2026-05-22
   sub: [ ARCH, SYS ]
 
 - title: DAC
@@ -209,4 +217,6 @@
   timezone: UTC-7
   place: Long Beach, California
   date: July 25 - 29, 2026
+  start: 2026-07-25
+  end: 2026-07-29
   sub: [ ARCH, SYS, TBD ]
