@@ -123,6 +123,16 @@
   end: 2026-03-01
   sub: [ ARCH, SYS ]
 
+- title: MICRO
+  year: 2026
+  id: micro26
+  link: https://microarch.org/micro59/index.php
+  deadline: '2026-03-11 23:59:59'
+  timezone: UTC-5
+  place: TBD
+  date: TBD
+  sub: [ ARCH, SYS, TBD ]
+
 - title: DATE
   year: 2026
   id: DATE26
