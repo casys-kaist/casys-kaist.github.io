@@ -230,3 +230,13 @@
   start: 2026-07-25
   end: 2026-07-29
   sub: [ ARCH, SYS ]
+
+- title: ISPASS
+  year: 2026
+  id: ISPASS26
+  link: https://ispass.org/ispass2026/
+  deadline: "2025-12-12 23:59:59"
+  timezone: UTC-12
+  place: Seoul, South Korea
+  date: April 26-28
+  sub: [ ARCH, SYS ]
