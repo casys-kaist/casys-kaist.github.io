@@ -26,7 +26,7 @@
 # [ ] denotes conference is not updated on this list
 
 # [System]
-# [ ] SOSP
+# [x] SOSP
 # [-] OSDI
 # [-] ATC
 # [x] EuroSys
@@ -66,6 +66,19 @@
 # [ ] ICLR
 # [ ] ICML
 # [ ] NeurIPS
+
+- title: SOSP
+  year: 2026
+  id: sosp26
+  link: https://sigops.org/s/conferences/sosp/2026/cfp.html
+  abstract_deadline: "2026-03-26 23:59:59"
+  deadline: "2026-04-01 23:59:59"
+  timezone: UTC-12
+  place: Prague, Czechia
+  date: September 29 - October 2, 2026
+  start: 2026-09-29
+  end: 2026-10-02
+  sub: [ SYS ]
 
 - title: OSDI
   year: 2026
