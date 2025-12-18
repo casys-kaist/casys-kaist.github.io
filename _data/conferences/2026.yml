@@ -146,6 +146,18 @@
   date: TBD
   sub: [ ARCH, SYS, TBD ]
 
+- title: SC
+  year: 2026
+  id: sc26
+  link: https://sc26.supercomputing.org/all-dates-deadlines/
+  deadline: "2026-04-08 23:59:59"
+  timezone: AoE
+  place: Chicago, IL, USA
+  date: November 15-20, 2026
+  start: 2026-11-15
+  end: 2026-11-20
+  sub: [ ARCH, SYS ]
+
 - title: DATE
   year: 2026
   id: DATE26

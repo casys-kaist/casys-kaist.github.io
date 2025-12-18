@@ -12,6 +12,9 @@ function addUtcTimeZones() {
     )}|UTC${isoSign}${Math.abs(offset)}`;
     moment.tz.link(link);
   }
+
+  // AoE (Anywhere on Earth) is equivalent to UTC-12.
+  moment.tz.link("Etc/GMT+12|AoE");
 }
 
 function update_filtering(data) {
