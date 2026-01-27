@@ -140,8 +140,8 @@
   year: 2026
   id: micro26
   link: https://microarch.org/micro59/index.php
-  deadline: '2026-03-11 23:59:59'
-  timezone: UTC-5
+  deadline: '2026-04-11 23:59:59'
+  timezone: UTC-4
   place: TBD
   date: TBD
   sub: [ ARCH, SYS, TBD ]
