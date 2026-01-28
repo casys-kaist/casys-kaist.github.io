@@ -167,25 +167,25 @@
   date: TBD
   sub: [ SYS, TBD ]
 
-- title: ASPLOS (Spring)
+- title: ASPLOS (April)
   year: 2027
   id: asplos27spring
-  link: https://www.asplos-conference.org/asplos2027/cfp/
-  deadline: '2026-03-12 23:59:59'
-  timezone: UTC-5
+  link: https://www.asplos-conference.org/call-for-papers-asplos27/
+  deadline: '2026-04-15 23:59:59'
+  timezone: UTC-12
   place: TBD
   date: TBD
-  sub: [ ARCH, SYS, TBD ]
+  sub: [ ARCH, SYS ]
 
-- title: ASPLOS (Summer)
+- title: ASPLOS (September)
   year: 2027
   id: asplos27summer
-  link: https://www.asplos-conference.org/asplos2027/cfp/
-  deadline: '2026-08-20 23:59:59'
-  timezone: UTC-5
+  link: https://www.asplos-conference.org/call-for-papers-asplos27/
+  deadline: '2026-09-09 23:59:59'
+  timezone: UTC-12
   place: TBD
   date: TBD
-  sub: [ ARCH, SYS, TBD ]
+  sub: [ ARCH, SYS ]
 
 - title: MLSys
   year: 2027
