@@ -66,6 +66,7 @@
 # [ ] ICLR
 # [ ] ICML
 # [ ] NeurIPS
+# [x] EMNLP
 
 - title: SOSP
   year: 2026
@@ -265,3 +266,17 @@
   place: Seoul, South Korea
   date: April 26-28
   sub: [ ARCH, SYS ]
+
+- title: EMNLP
+  year: 2026
+  id: emnlp26
+  full_name: The 2026 Conference on Empirical Methods in Natural Language Processing
+  link: https://2026.emnlp.org/
+  deadline: "2026-05-25 23:59:59"
+  timezone: UTC-12
+  place: Budapest, Hungary
+  date: October 24 - 29, 2026
+  start: 2026-10-24
+  end: 2026-10-29
+  sub: [ ML ]
+  note: ARR submission deadline. Commitment deadline Aug 2.
