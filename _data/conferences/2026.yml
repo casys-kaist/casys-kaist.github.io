@@ -64,7 +64,7 @@
 # [ ] ECCV
 # [ ] CVPR
 # [ ] ICLR
-# [ ] ICML
+# [x] ICML
 # [ ] NeurIPS
 # [x] EMNLP
 
@@ -278,6 +278,19 @@
   place: Seoul, South Korea
   date: April 26-28
   sub: [ ARCH, SYS ]
+
+- title: ICML
+  year: 2026
+  id: icml26
+  link: https://icml.cc/Conferences/2026
+  abstract_deadline: '2026-01-23 23:59:59'
+  deadline: '2026-01-28 23:59:59'
+  timezone: AoE
+  place: Seoul, South Korea
+  date: July 6-11, 2026
+  start: 2026-07-06
+  end: 2026-07-11
+  sub: [ ML ]
 
 - title: EMNLP
   year: 2026
