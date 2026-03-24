@@ -29,16 +29,16 @@
 # [ ] SOSP
 # [-] OSDI
 # [-] ATC
-# [-] EuroSys
+# [x] EuroSys
 # [ ] EMSOFT
-# [-] NSDI
-# [-] FAST
+# [x] NSDI
+# [x] FAST
 # [ ] SoCC
 # [ ] Middleware
 
 # [Arch-System]
 # [-] MLSYS
-# [-] ASPLOS
+# [x] ASPLOS
 # [ ] SIGMOD
 # [#] VLDB # montly, add if needed
 
@@ -91,11 +91,13 @@
   year: 2027
   id: fast27
   link: https://www.usenix.org/conference/fast27
-  deadline: "2026-09-17 23:59:59"
+  deadline: "2026-09-15 23:59:59"
   timezone: UTC-7
-  place: TBD
-  date: TBD
-  sub: [ SYS, TBD ]
+  place: Renton, WA, USA
+  date: February 23-25, 2027
+  start: 2027-02-23
+  end: 2027-02-25
+  sub: [ SYS ]
 
 - title: ISCA
   year: 2027
@@ -131,41 +133,53 @@
   year: 2027
   id: NSDI27spring
   link: https://www.usenix.org/conference/nsdi27/call-for-papers
-  deadline: "2026-05-07 23:59:59"
+  abstract_deadline: "2026-04-16 23:59:59"
+  deadline: "2026-04-23 23:59:59"
   timezone: UTC-4
-  place: TBD
-  date: TBD
-  sub: [ SYS, TBD ]
+  place: Providence, RI, USA
+  date: May 11-13, 2027
+  start: 2027-05-11
+  end: 2027-05-13
+  sub: [ SYS ]
 
 - title: NSDI (Fall)
   year: 2027
   id: NSDI27fall
   link: https://www.usenix.org/conference/nsdi27/call-for-papers
-  deadline: "2026-09-19 23:59:59"
+  abstract_deadline: "2026-09-10 23:59:59"
+  deadline: "2026-09-17 23:59:59"
   timezone: UTC-4
-  place: TBD
-  date: TBD
-  sub: [ SYS, TBD ]
+  place: Providence, RI, USA
+  date: May 11-13, 2027
+  start: 2027-05-11
+  end: 2027-05-13
+  sub: [ SYS ]
 
 - title: EuroSys (Spring)
   year: 2027
   id: eurosys27spring
   link: https://2027.eurosys.org/cfp.html
-  deadline: '2026-05-15 23:59:59'
+  abstract_deadline: '2026-05-07 23:59:59'
+  deadline: '2026-05-14 23:59:59'
   timezone: UTC-12
-  place: TBD
-  date: TBD
-  sub: [ SYS, TBD ]
+  place: Rabat, Morocco
+  date: April 19-24, 2027
+  start: 2027-04-19
+  end: 2027-04-24
+  sub: [ SYS ]
 
 - title: EuroSys (Fall)
   year: 2027
   id: eurosys27fall
   link: https://2027.eurosys.org/cfp.html
-  deadline: '2026-09-25 23:59:59'
+  abstract_deadline: '2026-09-17 23:59:59'
+  deadline: '2026-09-24 23:59:59'
   timezone: UTC-12
-  place: TBD
-  date: TBD
-  sub: [ SYS, TBD ]
+  place: Rabat, Morocco
+  date: April 19-24, 2027
+  start: 2027-04-19
+  end: 2027-04-24
+  sub: [ SYS ]
 
 - title: ASPLOS (April)
   year: 2027

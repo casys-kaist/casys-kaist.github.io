@@ -241,9 +241,11 @@
   link: https://www.iccd-conf.com/Call_for_papers.html
   deadline: "2025-05-12 23:59:59"
   timezone: UTC-12
-  place: TBD
-  date: TBD
-  sub: [ ARCH, TBD ]
+  place: Dallas, USA
+  date: November 10-12, 2025
+  start: 2025-11-10
+  end: 2025-11-12
+  sub: [ ARCH ]
 
 - title: Middleware (Summer)
   year: 2025
@@ -349,9 +351,11 @@
   link: https://cvpr.thecvf.com/
   deadline: '2024-11-18 07:59:59'
   timezone: UTC
-  place: TBD
-  date: TBD
-  sub: [ ML, TBD ]
+  place: Nashville, TN, USA
+  date: June 11-15, 2025
+  start: 2025-06-11
+  end: 2025-06-15
+  sub: [ ML ]
 
 - title: ICLR
   year: 2025
@@ -400,6 +404,8 @@
   deadline: '2025-05-01 23:59:59'
   timezone: UTC
   place: San Diego, CA, USA
-  date: Decemer 9-15, 2025
-  sub: [ ML, TBD ]
+  date: December 2-7, 2025
+  start: 2025-12-02
+  end: 2025-12-07
+  sub: [ ML ]
 

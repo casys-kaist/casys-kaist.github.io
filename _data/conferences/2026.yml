@@ -28,11 +28,11 @@
 # [System]
 # [x] SOSP
 # [-] OSDI
-# [-] ATC
+# [x] ATC
 # [x] EuroSys
 # [ ] EMSOFT
-# [-] NSDI
-# [-] FAST
+# [x] NSDI
+# [x] FAST
 # [ ] SoCC
 # [ ] Middleware
 
@@ -53,8 +53,8 @@
 # [ ] SC
 # [ ] PACT
 # [ ] ISMM
-# [-] DAC
-# [-] DATE
+# [x] DAC
+# [x] DATE
 # [ ] CAL
 # [ ] FPGA
 # [ ] FCCM
@@ -93,15 +93,17 @@
   end: 2026-07-15
   sub: [ SYS ]
 
-# - title: ATC
-#   year: 2026
-#   id: atc26
-#   link: https://www.usenix.org/conference/atc26
-#   deadline: "2026-01-14 23:59:59"
-#   timezone: UTC+0
-#   place: TBD
-#   date: TBD
-#   sub: [ SYS, TBD ]
+- title: ATC
+  year: 2026
+  id: atc26
+  link: https://sigops.org/s/conferences/atc/2026/
+  deadline: "2026-06-10 23:59:59"
+  timezone: UTC-12
+  place: Shatin, Hong Kong
+  date: November 15-18, 2026
+  start: 2026-11-15
+  end: 2026-11-18
+  sub: [ SYS ]
 
 - title: FAST
   year: 2026
@@ -109,9 +111,11 @@
   link: https://www.usenix.org/conference/fast26
   deadline: "2025-09-17 23:59:59"
   timezone: UTC-7
-  place: TBD
-  date: TBD
-  sub: [ SYS, TBD ]
+  place: Santa Clara, CA, USA
+  date: February 24-26, 2026
+  start: 2026-02-24
+  end: 2026-02-26
+  sub: [ SYS ]
 
 - title: ISCA
   year: 2026
@@ -165,29 +169,37 @@
   link: https://www.date-conference.com/date-2026-call-papers
   deadline: "2025-09-15 23:59:59"
   timezone: UTC-12
-  place: TBD
-  date: TBD
-  sub: [ ARCH, TBD ]
+  place: Verona, Italy
+  date: April 20-22, 2026
+  start: 2026-04-20
+  end: 2026-04-22
+  sub: [ ARCH ]
 
 - title: NSDI (Spring)
   year: 2026
   id: NSDI26spring
   link: https://www.usenix.org/conference/nsdi26/call-for-papers
-  deadline: "2025-05-07 23:59:59"
-  timezone: UTC-4
-  place: TBD
-  date: TBD
-  sub: [ SYS, TBD ]
+  abstract_deadline: "2025-04-18 23:59:59"
+  deadline: "2025-04-25 23:59:59"
+  timezone: UTC-7
+  place: Renton, WA, USA
+  date: May 4-6, 2026
+  start: 2026-05-04
+  end: 2026-05-06
+  sub: [ SYS ]
 
 - title: NSDI (Fall)
   year: 2026
   id: NSDI26fall
   link: https://www.usenix.org/conference/nsdi26/call-for-papers
-  deadline: "2025-09-19 23:59:59"
-  timezone: UTC-4
-  place: TBD
-  date: TBD
-  sub: [ SYS, TBD ]
+  abstract_deadline: "2025-09-11 23:59:59"
+  deadline: "2025-09-18 23:59:59"
+  timezone: UTC-7
+  place: Renton, WA, USA
+  date: May 4-6, 2026
+  start: 2026-05-04
+  end: 2026-05-06
+  sub: [ SYS ]
 
 - title: EuroSys (Spring)
   year: 2026
