@@ -35,6 +35,7 @@
 # [x] FAST
 # [ ] SoCC
 # [ ] Middleware
+# [x] APSys
 
 # [Arch-System]
 # [x] MLSYS
@@ -305,3 +306,16 @@
   end: 2026-10-29
   sub: [ ML ]
   note: ARR submission deadline. Commitment deadline Aug 2.
+
+- title: APSys
+  year: 2026
+  id: apsys26
+  link: https://apsys26.github.io/call_for_papers.html
+  abstract_deadline: "2026-05-13 23:59:59"
+  deadline: "2026-05-20 23:59:59"
+  timezone: AoE
+  place: Bangkok, Thailand
+  date: September 17 - 18, 2026
+  start: 2026-09-17
+  end: 2026-09-18
+  sub: [ SYS ]
