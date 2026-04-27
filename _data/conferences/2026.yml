@@ -50,7 +50,7 @@
 # [ ] ICS
 # [ ] ICCD
 # [ ] ISPASS
-# [ ] IISWC
+# [x] IISWC
 # [ ] SC
 # [ ] PACT
 # [ ] ISMM
@@ -318,4 +318,16 @@
   date: September 17 - 18, 2026
   start: 2026-09-17
   end: 2026-09-18
+  sub: [ SYS ]
+
+- title: IISWC
+  year: 2026
+  id: IISWC26
+  link: https://iiswc.org/iiswc2026/cfp.html
+  deadline: "2026-05-21 23:59:59"
+  timezone: AoE
+  place: Boulder, CO, USA
+  date: September 27-29, 2026
+  start: 2026-09-27
+  end: 2026-09-29
   sub: [ SYS ]
