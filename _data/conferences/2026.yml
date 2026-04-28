@@ -52,7 +52,7 @@
 # [ ] ISPASS
 # [x] IISWC
 # [ ] SC
-# [ ] PACT
+# [x] PACT
 # [ ] ISMM
 # [x] DAC
 # [x] DATE
@@ -331,3 +331,13 @@
   start: 2026-09-27
   end: 2026-09-29
   sub: [ SYS ]
+
+- title: PACT
+  year: 2026
+  id: pact26
+  link: https://pact2026.github.io/submit
+  deadline: '2026-04-30 23:59:59'
+  timezone: AoE
+  place: Chicago, IL, USA
+  date: October 19-22, 2026
+  sub: [ ARCH ]
