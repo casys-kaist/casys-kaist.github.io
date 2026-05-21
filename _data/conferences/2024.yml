@@ -257,9 +257,11 @@
   link: https://www.usenix.org/conference/osdi24
   deadline: '2023-12-13 17:59:59'
   timezone: EST
-  place: TBD
-  date: TBD
-  sub: [ TBD, SYS ]
+  place: Santa Clara, CA, USA
+  date: July 10-12, 2024
+  start: 2024-07-10
+  end: 2024-07-12
+  sub: [ SYS ]
 
 - title: MLSys
   year: 2024
@@ -279,7 +281,7 @@
   timezone: UTC-12
   place: Valencia, Spain
   date: March, 25-27, 2024
-  sub: [ TBD, ARCH ]
+  sub: [ ARCH ]
 
 - title: ASPLOS (Spring)
   year: 2024
@@ -299,7 +301,7 @@
   timezone: UTC
   place: Edinburgh, United Kingdom
   date: March, 2-6, 2024
-  sub: [ TBD, ARCH ]
+  sub: [ ARCH ]
 
 - title: ASPLOS (Summer)
   year: 2024
