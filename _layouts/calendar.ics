@@ -11,29 +11,31 @@ X-PUBLISHED-TTL:PT1H
   {%- endfor -%}
 {%- endfor -%}
 {%- for conf in all_conferences -%}
+{%- assign final_tz = conf.timezone -%}
+{%- if conf.timezone == "AoE" -%}
+  {%- assign final_tz = "Etc/GMT+12" -%}
+{%- elsif conf.timezone == "PST" -%}
+  {%- assign final_tz = "Etc/GMT+8" -%}
+{%- elsif conf.timezone == "EST" -%}
+  {%- assign final_tz = "Etc/GMT+5" -%}
+{%- elsif conf.timezone == "UTC" -%}
+  {%- assign final_tz = "Etc/UTC" -%}
+{%- elsif conf.timezone contains "UTC" -%}
+  {%- assign tz_offset = conf.timezone | remove: "UTC" -%}
+  {%- if tz_offset contains "-" -%}
+    {%- assign tz_offset = tz_offset | replace: "-", "+" -%}
+  {%- elsif tz_offset contains "+" -%}
+    {%- assign tz_offset = tz_offset | replace: "+", "-" -%}
+  {%- endif -%}
+  {%- assign final_tz = "Etc/GMT" | append: tz_offset -%}
+{%- endif -%}
 {% if conf.abstract_deadline and conf.abstract_deadline != "TBA" %}
 BEGIN:VEVENT
 SUMMARY:{{ conf.title }} {{ conf.year }} abstract deadline
 ORGANIZER:casys-kaist.github.io
 DTSTAMP:{{ site.time | date: "%Y%m%dT%H%M%SZ" }}
 UID:{{ conf.id }}-abstract
-{% if conf.timezone contains "UTC" or conf.timezone == "AoE" %}
-{% if conf.timezone == "AoE" %}
-DTSTART;TZID=Etc/GMT+12:{{ conf.abstract_deadline | date: "%Y%m%dT%H%M%S" }}
-{% else %}
-{% assign tz = conf.timezone | split: "UTC" %}
-{% if tz[1] contains "-" %}
-{% assign tz = tz[1] | replace: "-", "+" %}
-{% elsif tz[1] contains "+" %}
-{% assign tz = tz[1] | replace: "+", "-" %}
-{% else %}
-{% assign tz = tz[1] %}
-{% endif %}
-DTSTART;TZID=Etc/GMT{{ tz }}:{{ conf.abstract_deadline | date: "%Y%m%dT%H%M%S" }}
-{% endif %}
-{% else %}
-DTSTART;TZID={{ conf.timezone }}:{{ conf.abstract_deadline | date: "%Y%m%dT%H%M%S" }}
-{% endif %}
+DTSTART;TZID={{ final_tz }}:{{ conf.abstract_deadline | date: "%Y%m%dT%H%M%S" }}
 END:VEVENT
 {% endif %}
 {% if conf.deadline != "TBA" %}BEGIN:VEVENT
@@ -41,23 +43,7 @@ SUMMARY:{{ conf.title }} {{ conf.year }} deadline
 ORGANIZER:casys-kaist.github.io
 DTSTAMP:{{ site.time | date: "%Y%m%dT%H%M%SZ" }}
 UID:{{ conf.id }}
-{% if conf.timezone contains "UTC" or conf.timezone == "AoE" %}
-{% if conf.timezone == "AoE" %}
-DTSTART;TZID=Etc/GMT+12:{{ conf.deadline | date: "%Y%m%dT%H%M%S" }}
-{% else %}
-{% assign tz = conf.timezone | split: "UTC" %}
-{% if tz[1] contains "-" %}
-{% assign tz = tz[1] | replace: "-", "+" %}
-{% elsif tz[1] contains "+" %}
-{% assign tz = tz[1] | replace: "+", "-" %}
-{% else %}
-{% assign tz = tz[1] %}
-{% endif %}
-DTSTART;TZID=Etc/GMT{{ tz }}:{{ conf.deadline | date: "%Y%m%dT%H%M%S" }}
-{% endif %}
-{% else %}
-DTSTART;TZID={{ conf.timezone }}:{{ conf.deadline | date: "%Y%m%dT%H%M%S" }}
-{% endif %}
+DTSTART;TZID={{ final_tz }}:{{ conf.deadline | date: "%Y%m%dT%H%M%S" }}
 END:VEVENT
 {% endif %}
 {%- endfor -%}END:VCALENDAR

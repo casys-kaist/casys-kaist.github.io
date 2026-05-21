@@ -93,6 +93,13 @@ function load_conference_list() {
   {% endfor %}
 
   {% for conf in all_conferences %}
+    // Parse deadline in the conference's specified timezone so the calendar
+    // displays it on the correct day for the viewer's local timezone.
+    {% if conf.timezone %}
+    var deadlineDate_{{ conf.id }} = moment.tz("{{conf.deadline}}", "{{conf.timezone}}").toDate();
+    {% else %}
+    var deadlineDate_{{ conf.id }} = moment.tz("{{conf.deadline}}", "America/New_York").toDate();
+    {% endif %}
     // add deadlines in red
     conf_list_all.push({
       id: "{{conf.id}}-deadline",
@@ -103,8 +110,8 @@ function load_conference_list() {
       date: "{{conf.date}}",
       hindex: "{{conf.hindex}}",
       subject: "{{conf.sub}}",
-      startDate: Date.parse("{{conf.deadline}}"),
-      endDate: Date.parse("{{conf.deadline}}"),
+      startDate: deadlineDate_{{ conf.id }},
+      endDate: deadlineDate_{{ conf.id }},
     });
 
     // add Conferences in chosen color

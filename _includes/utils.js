@@ -15,6 +15,9 @@ function addUtcTimeZones() {
 
   // AoE (Anywhere on Earth) is equivalent to UTC-12.
   moment.tz.link("Etc/GMT+12|AoE");
+  // PST is not in the IANA database; alias to fixed UTC-8 to match the literal name.
+  // (For DST-aware Pacific Time, use "America/Los_Angeles" in the YAML.)
+  moment.tz.link("Etc/GMT+8|PST");
 }
 
 function update_filtering(data) {
