@@ -33,6 +33,7 @@
 # [ ] EMSOFT
 # [x] NSDI
 # [x] FAST
+# [x] HotNets
 # [ ] SoCC
 # [ ] Middleware
 # [x] APSys
@@ -292,6 +293,19 @@
   start: 2026-07-06
   end: 2026-07-11
   sub: [ ML ]
+
+- title: HotNets
+  year: 2026
+  id: hotnets26
+  full_name: ACM Workshop on Hot Topics in Networks
+  link: https://conferences.sigcomm.org/hotnets/2026/
+  deadline: "2026-07-16 23:59:59"
+  timezone: AoE
+  place: Salt Lake City, UT, USA
+  date: November 16-17, 2026
+  start: 2026-11-16
+  end: 2026-11-17
+  sub: [ SYS ]
 
 - title: EMNLP
   year: 2026
