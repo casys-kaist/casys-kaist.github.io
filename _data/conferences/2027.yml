@@ -73,8 +73,10 @@
   link: https://www.usenix.org/conference/osdi27
   deadline: "2026-12-11 17:59:59"
   timezone: UTC-5
-  place: TBD
-  date: TBD
+  place: Baltimore, MD, USA
+  date: July 7-9, 2027
+  start: 2027-07-07
+  end: 2027-07-09
   sub: [ SYS, TBD ]
 
 # - title: ATC
@@ -184,21 +186,25 @@
 - title: ASPLOS (April)
   year: 2027
   id: asplos27spring
-  link: https://www.asplos-conference.org/call-for-papers-asplos27/
+  link: https://www.asplos-conference.org/asplos2027/cfp/
   deadline: '2026-04-15 23:59:59'
   timezone: UTC-12
-  place: TBD
-  date: TBD
+  place: Crete, Greece
+  date: April 11-15, 2027
+  start: 2027-04-11
+  end: 2027-04-15
   sub: [ ARCH, SYS ]
 
 - title: ASPLOS (September)
   year: 2027
   id: asplos27summer
-  link: https://www.asplos-conference.org/call-for-papers-asplos27/
+  link: https://www.asplos-conference.org/asplos2027/cfp/
   deadline: '2026-09-09 23:59:59'
   timezone: UTC-12
-  place: TBD
-  date: TBD
+  place: Crete, Greece
+  date: April 11-15, 2027
+  start: 2027-04-11
+  end: 2027-04-15
   sub: [ ARCH, SYS ]
 
 - title: MLSys
@@ -217,6 +223,8 @@
   link: https://www.dac.com/Conference/2026-Call-for-Contributions
   deadline: '2026-11-18 16:59:59'
   timezone: UTC-7
-  place: TBD
-  date: TBD
+  place: San Jose, CA, USA
+  date: July 10-16, 2027
+  start: 2027-07-10
+  end: 2027-07-16
   sub: [ ARCH, SYS, TBD ]
