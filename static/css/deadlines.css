@@ -143,6 +143,13 @@ footer {
   font-weight: 400;
 }
 
+.TBD-conf .timer,
+.TBD-conf .timer-small,
+.TBD-conf .deadline-time {
+  font-style: italic;
+  color: #888;
+}
+
 #confs {
   margin-top: 20px;
 }
