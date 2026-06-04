@@ -114,10 +114,10 @@
 - title: HPCA
   year: 2027
   id: hpca27
-  link: https://hpca-conf.org/2027/
-  deadline: "2026-08-01 19:59:59"
-  timezone: UTC-4
-  place: TBD
+  link: https://conf.researchr.org/home/hpca-2027
+  deadline: "2026-07-31 23:59:59"
+  timezone: AoE
+  place: Salt Lake City, UT, USA
   date: TBD
   sub: [ ARCH, SYS, TBD ]
 

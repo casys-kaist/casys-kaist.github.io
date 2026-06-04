@@ -49,7 +49,7 @@
 # [x] HPCA
 # [ ] MICRO
 # [ ] ICS
-# [ ] ICCD
+# [x] ICCD
 # [ ] ISPASS
 # [x] IISWC
 # [ ] SC
@@ -354,4 +354,17 @@
   timezone: AoE
   place: Chicago, IL, USA
   date: October 19-22, 2026
+  sub: [ ARCH ]
+
+- title: ICCD
+  year: 2026
+  id: ICCD26
+  link: https://www.iccd-conf.com/
+  abstract_deadline: "2026-05-29 23:59:59"
+  deadline: "2026-06-05 23:59:59"
+  timezone: AoE
+  place: Hong Kong
+  date: November 16-18, 2026
+  start: 2026-11-16
+  end: 2026-11-18
   sub: [ ARCH ]
