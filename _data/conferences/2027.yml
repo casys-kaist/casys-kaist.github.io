@@ -44,7 +44,7 @@
 
 # [Arch]
 # [-] ISCA
-# [-] HPCA
+# [x] HPCA
 # [ ] MICRO
 # [ ] ICS
 # [ ] ICCD
@@ -116,10 +116,13 @@
   id: hpca27
   link: https://conf.researchr.org/home/hpca-2027
   deadline: "2026-07-31 23:59:59"
+  abstract_deadline: "2026-07-24 23:59:59"
   timezone: AoE
-  place: Salt Lake City, UT, USA
-  date: TBD
-  sub: [ ARCH, SYS, TBD ]
+  place: Salt Lake City, Utah, USA
+  date: March 20-24, 2027
+  start: 2027-03-20
+  end: 2027-03-24
+  sub: [ ARCH, SYS ]
 
 - title: DATE
   year: 2027
