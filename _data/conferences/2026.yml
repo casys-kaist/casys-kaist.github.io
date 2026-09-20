@@ -368,3 +368,16 @@
   start: 2026-11-16
   end: 2026-11-18
   sub: [ ARCH ]
+
+- title: ARR (October)
+  year: 2026
+  id: arr26october
+  full_name: ACL Rolling Review
+  link: https://aclrollingreview.org/dates
+  deadline: "2026-10-12 23:59:59"
+  timezone: AoE
+  place: Online
+  date: October 2026 review cycle
+  start: ""
+  end: ""
+  sub: [ ML ]

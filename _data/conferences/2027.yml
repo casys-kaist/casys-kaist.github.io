@@ -37,7 +37,7 @@
 # [ ] Middleware
 
 # [Arch-System]
-# [-] MLSYS
+# [x] MLSYS
 # [x] ASPLOS
 # [ ] SIGMOD
 # [#] VLDB # montly, add if needed
@@ -66,8 +66,7 @@
 # [x] ICLR
 # [ ] ICML
 # [ ] NeurIPS
-# [x] ACL (October ARR)
-# [-] ACL (Final ARR)
+# [-] ARR (January)
 
 - title: OSDI
   year: 2027
@@ -95,9 +94,9 @@
 - title: FAST
   year: 2027
   id: fast27
-  link: https://www.usenix.org/conference/fast27
+  link: https://www.usenix.org/conference/fast27/call-for-papers
   deadline: "2026-09-15 23:59:59"
-  timezone: UTC-7
+  timezone: AoE
   place: Renton, WA, USA
   date: February 23-25, 2027
   start: 2027-02-23
@@ -174,9 +173,9 @@
   deadline: '2026-05-14 23:59:59'
   timezone: UTC-12
   place: Rabat, Morocco
-  date: April 19-24, 2027
+  date: April 19-23, 2027
   start: 2027-04-19
-  end: 2027-04-24
+  end: 2027-04-23
   sub: [ SYS ]
 
 - title: EuroSys (Fall)
@@ -187,9 +186,9 @@
   deadline: '2026-09-24 23:59:59'
   timezone: UTC-12
   place: Rabat, Morocco
-  date: April 19-24, 2027
+  date: April 19-23, 2027
   start: 2027-04-19
-  end: 2027-04-24
+  end: 2027-04-23
   sub: [ SYS ]
 
 - title: ASPLOS (April)
@@ -219,12 +218,14 @@
 - title: MLSys
   year: 2027
   id: mlsys27
-  link: https://mlsys.org/
-  deadline: '2026-10-30 12:59:59'
-  timezone: UTC-7
-  place: TBD
-  date: TBD
-  sub: [ ARCH, SYS, TBD ]
+  link: https://mlsys.org/Conferences/2027/CallForResearchPapers
+  deadline: '2026-10-30 20:00:00'
+  timezone: UTC+0
+  place: Bellevue, WA, USA
+  date: June 21-25, 2027
+  start: 2027-06-21
+  end: 2027-06-25
+  sub: [ ARCH, SYS ]
 
 - title: DAC
   year: 2027
@@ -252,28 +253,16 @@
   end: 2027-04-30
   sub: [ ML ]
 
-- title: ACL (October ARR)
+- title: ARR (January)
   year: 2027
-  id: acl27october
-  full_name: The 65th Annual Meeting of the Association for Computational Linguistics
+  id: arr27january
+  full_name: ACL Rolling Review
   link: https://aclrollingreview.org/dates
-  deadline: "2026-10-12 23:59:59"
-  timezone: AoE
-  place: Kyoto, Japan
-  date: August 17-22, 2027
-  start: 2027-08-17
-  end: 2027-08-22
-  sub: [ ML ]
-
-- title: ACL
-  year: 2027
-  id: acl27
-  full_name: The 65th Annual Meeting of the Association for Computational Linguistics
-  link: https://2027.aclweb.org/
   deadline: "2027-01-05 23:59:59"
   timezone: AoE
-  place: Kyoto, Japan
-  date: August 17-22, 2027
-  start: 2027-08-17
-  end: 2027-08-22
+  place: Online
+  date: January 2027 review cycle (tentative)
+  start: ""
+  end: ""
   sub: [ ML, TBD ]
+  note: Exact January submission date has not been announced. The deadline shown is tentative.
